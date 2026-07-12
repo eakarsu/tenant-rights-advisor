@@ -1,0 +1,30 @@
+{
+  "id": "tenant-rights-advisor",
+  "title": "Tenant Rights Advisor App",
+  "industry": "Legal, Compliance & Risk",
+  "industryId": "legal-compliance-risk",
+  "specialization": "Tenant Rights Advisor",
+  "sourcePlatformGroup": "legal-practice-platform",
+  "sources": [
+    "AIBailBondRiskAssessor",
+    "AIDivorceFamilyLawNavigator",
+    "AIEstatePlanningDigitalLegacy",
+    "AITenantRightsAdvisor"
+  ],
+  "featureCount": 224,
+  "candidateFeatureCount": 296,
+  "eliminatedSimilarFeatures": 72,
+  "evidenceCount": 431,
+  "aiPageCount": 0,
+  "sourceAIPageCount": 0,
+  "featureEvidencePolicy": "Existing source routes, pages, APIs, models, schemas, and navigation only",
+  "optimizationPolicy": "Equivalent feature names are consolidated once per industry and assigned to one canonical app owner",
+  "database": "database.sqlite",
+  "databaseSeed": {
+    "seededProjects": 2,
+    "seededTables": 29,
+    "seededRows": 440
+  },
+  "visibleFeatureCount": 35,
+  "featureVisibilityMode": "seeded-or-ai"
+}
