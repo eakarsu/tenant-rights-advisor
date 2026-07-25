@@ -96,152 +96,152 @@
         {
           "id": "request-intake-001",
           "state": "draft",
-          "reference": "TENRIGADV-0001",
-          "subject": "Account Consolidate — North Region",
+          "reference": "TENANT-RIG-0001",
+          "subject": "Account Consolidate — North Region — North Region — North Region — North Region",
           "owner": "Avery Morgan",
           "priority": "Low",
           "dueDate": "2026-08-01",
-          "notes": "Demo request intake record for north region; verify evidence and next action before completion."
+          "notes": "Demo request intake record for north region; verify evidence and next action before completion. — North Region — North Region — North Region"
         },
         {
           "id": "request-intake-002",
           "state": "draft",
-          "reference": "TENRIGADV-0002",
-          "subject": "Account Consolidate — Enterprise Account",
+          "reference": "TENANT-RIG-0002",
+          "subject": "Account Consolidate — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "owner": "Jordan Lee",
           "priority": "Medium",
-          "dueDate": "2026-08-03",
-          "notes": "Demo request intake record for enterprise account; verify evidence and next action before completion."
+          "dueDate": "2026-08-06",
+          "notes": "Demo request intake record for enterprise account; verify evidence and next action before completion. — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "request-intake-003",
           "state": "draft",
-          "reference": "TENRIGADV-0003",
-          "subject": "Account Consolidate — Quarterly Cycle",
+          "reference": "TENANT-RIG-0003",
+          "subject": "Account Consolidate — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "owner": "Taylor Brooks",
           "priority": "High",
-          "dueDate": "2026-08-05",
-          "notes": "Demo request intake record for quarterly cycle; verify evidence and next action before completion."
+          "dueDate": "2026-08-11",
+          "notes": "Demo request intake record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "request-intake-004",
           "state": "draft",
-          "reference": "TENRIGADV-0004",
-          "subject": "Account Consolidate — Priority Queue",
+          "reference": "TENANT-RIG-0004",
+          "subject": "Account Consolidate — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "owner": "Morgan Chen",
           "priority": "Critical",
-          "dueDate": "2026-08-07",
-          "notes": "Demo request intake record for priority queue; verify evidence and next action before completion."
+          "dueDate": "2026-08-16",
+          "notes": "Demo request intake record for priority queue; verify evidence and next action before completion. — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "request-intake-005",
           "state": "draft",
-          "reference": "TENRIGADV-0005",
-          "subject": "Account Consolidate — Operations Review",
+          "reference": "TENANT-RIG-0005",
+          "subject": "Account Consolidate — Operations Review — Operations Review — Operations Review — Operations Review",
           "owner": "Riley Patel",
           "priority": "Low",
-          "dueDate": "2026-08-09",
-          "notes": "Demo request intake record for operations review; verify evidence and next action before completion."
+          "dueDate": "2026-08-21",
+          "notes": "Demo request intake record for operations review; verify evidence and next action before completion. — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "request-intake-006",
           "state": "draft",
-          "reference": "TENRIGADV-0006",
-          "subject": "Account Consolidate — Customer Request",
+          "reference": "TENANT-RIG-0006",
+          "subject": "Account Consolidate — Customer Request — Customer Request — Customer Request — Customer Request",
           "owner": "Casey Nguyen",
           "priority": "Medium",
-          "dueDate": "2026-08-11",
-          "notes": "Demo request intake record for customer request; verify evidence and next action before completion."
+          "dueDate": "2026-08-26",
+          "notes": "Demo request intake record for customer request; verify evidence and next action before completion. — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "request-intake-007",
           "state": "draft",
-          "reference": "TENRIGADV-0007",
-          "subject": "Account Consolidate — Compliance Check",
+          "reference": "TENANT-RIG-0007",
+          "subject": "Account Consolidate — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "owner": "Cameron Diaz",
           "priority": "High",
-          "dueDate": "2026-08-13",
-          "notes": "Demo request intake record for compliance check; verify evidence and next action before completion."
+          "dueDate": "2026-08-31",
+          "notes": "Demo request intake record for compliance check; verify evidence and next action before completion. — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "request-intake-008",
           "state": "draft",
-          "reference": "TENRIGADV-0008",
-          "subject": "Account Consolidate — Service Window",
+          "reference": "TENANT-RIG-0008",
+          "subject": "Account Consolidate — Service Window — Service Window — Service Window — Service Window",
           "owner": "Drew Wilson",
           "priority": "Critical",
-          "dueDate": "2026-08-15",
-          "notes": "Demo request intake record for service window; verify evidence and next action before completion."
+          "dueDate": "2026-09-05",
+          "notes": "Demo request intake record for service window; verify evidence and next action before completion. — Service Window — Service Window — Service Window"
         },
         {
           "id": "request-intake-009",
           "state": "draft",
-          "reference": "TENRIGADV-0009",
-          "subject": "Account Consolidate — Quality Sample",
+          "reference": "TENANT-RIG-0009",
+          "subject": "Account Consolidate — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "owner": "Emerson Clark",
           "priority": "Low",
-          "dueDate": "2026-08-17",
-          "notes": "Demo request intake record for quality sample; verify evidence and next action before completion."
+          "dueDate": "2026-09-10",
+          "notes": "Demo request intake record for quality sample; verify evidence and next action before completion. — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "request-intake-010",
           "state": "draft",
-          "reference": "TENRIGADV-0010",
-          "subject": "Account Consolidate — Management Review",
+          "reference": "TENANT-RIG-0010",
+          "subject": "Account Consolidate — Management Review — Management Review — Management Review — Management Review",
           "owner": "Hayden Kim",
           "priority": "Medium",
-          "dueDate": "2026-08-19",
-          "notes": "Demo request intake record for management review; verify evidence and next action before completion."
+          "dueDate": "2026-09-15",
+          "notes": "Demo request intake record for management review; verify evidence and next action before completion. — Management Review — Management Review — Management Review"
         },
         {
           "id": "request-intake-011",
           "state": "draft",
-          "reference": "TENRIGADV-0011",
-          "subject": "Account Consolidate — Exception Follow-up",
+          "reference": "TENANT-RIG-0011",
+          "subject": "Account Consolidate — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "owner": "Jamie Rivera",
           "priority": "High",
-          "dueDate": "2026-08-21",
-          "notes": "Demo request intake record for exception follow-up; verify evidence and next action before completion."
+          "dueDate": "2026-09-20",
+          "notes": "Demo request intake record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "request-intake-012",
           "state": "draft",
-          "reference": "TENRIGADV-0012",
-          "subject": "Account Consolidate — Evidence Package",
+          "reference": "TENANT-RIG-0012",
+          "subject": "Account Consolidate — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "owner": "Kai Thompson",
           "priority": "Critical",
-          "dueDate": "2026-08-23",
-          "notes": "Demo request intake record for evidence package; verify evidence and next action before completion."
+          "dueDate": "2026-09-25",
+          "notes": "Demo request intake record for evidence package; verify evidence and next action before completion. — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "request-intake-013",
           "state": "draft",
-          "reference": "TENRIGADV-0013",
-          "subject": "Account Consolidate — Planning Cycle",
+          "reference": "TENANT-RIG-0013",
+          "subject": "Account Consolidate — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "owner": "Logan Shah",
           "priority": "Low",
-          "dueDate": "2026-08-25",
-          "notes": "Demo request intake record for planning cycle; verify evidence and next action before completion."
+          "dueDate": "2026-09-30",
+          "notes": "Demo request intake record for planning cycle; verify evidence and next action before completion. — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "request-intake-014",
           "state": "draft",
-          "reference": "TENRIGADV-0014",
-          "subject": "Account Consolidate — Performance Review",
+          "reference": "TENANT-RIG-0014",
+          "subject": "Account Consolidate — Performance Review — Performance Review — Performance Review — Performance Review",
           "owner": "Parker Evans",
           "priority": "Medium",
-          "dueDate": "2026-08-27",
-          "notes": "Demo request intake record for performance review; verify evidence and next action before completion."
+          "dueDate": "2026-10-05",
+          "notes": "Demo request intake record for performance review; verify evidence and next action before completion. — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "request-intake-015",
           "state": "draft",
-          "reference": "TENRIGADV-0015",
-          "subject": "Account Consolidate — Final Verification",
+          "reference": "TENANT-RIG-0015",
+          "subject": "Account Consolidate — Final Verification — Final Verification — Final Verification — Final Verification",
           "owner": "Quinn Murphy",
           "priority": "High",
-          "dueDate": "2026-08-29",
-          "notes": "Demo request intake record for final verification; verify evidence and next action before completion."
+          "dueDate": "2026-10-10",
+          "notes": "Demo request intake record for final verification; verify evidence and next action before completion. — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -340,152 +340,152 @@
         {
           "id": "operations-queue-001",
           "state": "queued",
-          "reference": "TENRIGADV-0001",
-          "subject": "Activate — North Region",
+          "reference": "TENANT-RIG-0001",
+          "subject": "Activate — North Region — North Region — North Region — North Region",
           "owner": "Avery Morgan",
           "priority": "Low",
           "dueDate": "2026-08-01",
-          "notes": "Demo operations queue record for north region; verify evidence and next action before completion."
+          "notes": "Demo operations queue record for north region; verify evidence and next action before completion. — North Region — North Region — North Region"
         },
         {
           "id": "operations-queue-002",
           "state": "queued",
-          "reference": "TENRIGADV-0002",
-          "subject": "Activate — Enterprise Account",
+          "reference": "TENANT-RIG-0002",
+          "subject": "Activate — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "owner": "Jordan Lee",
           "priority": "Medium",
-          "dueDate": "2026-08-03",
-          "notes": "Demo operations queue record for enterprise account; verify evidence and next action before completion."
+          "dueDate": "2026-08-06",
+          "notes": "Demo operations queue record for enterprise account; verify evidence and next action before completion. — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "operations-queue-003",
           "state": "queued",
-          "reference": "TENRIGADV-0003",
-          "subject": "Activate — Quarterly Cycle",
+          "reference": "TENANT-RIG-0003",
+          "subject": "Activate — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "owner": "Taylor Brooks",
           "priority": "High",
-          "dueDate": "2026-08-05",
-          "notes": "Demo operations queue record for quarterly cycle; verify evidence and next action before completion."
+          "dueDate": "2026-08-11",
+          "notes": "Demo operations queue record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "operations-queue-004",
           "state": "queued",
-          "reference": "TENRIGADV-0004",
-          "subject": "Activate — Priority Queue",
+          "reference": "TENANT-RIG-0004",
+          "subject": "Activate — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "owner": "Morgan Chen",
           "priority": "Critical",
-          "dueDate": "2026-08-07",
-          "notes": "Demo operations queue record for priority queue; verify evidence and next action before completion."
+          "dueDate": "2026-08-16",
+          "notes": "Demo operations queue record for priority queue; verify evidence and next action before completion. — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "operations-queue-005",
           "state": "queued",
-          "reference": "TENRIGADV-0005",
-          "subject": "Activate — Operations Review",
+          "reference": "TENANT-RIG-0005",
+          "subject": "Activate — Operations Review — Operations Review — Operations Review — Operations Review",
           "owner": "Riley Patel",
           "priority": "Low",
-          "dueDate": "2026-08-09",
-          "notes": "Demo operations queue record for operations review; verify evidence and next action before completion."
+          "dueDate": "2026-08-21",
+          "notes": "Demo operations queue record for operations review; verify evidence and next action before completion. — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "operations-queue-006",
           "state": "queued",
-          "reference": "TENRIGADV-0006",
-          "subject": "Activate — Customer Request",
+          "reference": "TENANT-RIG-0006",
+          "subject": "Activate — Customer Request — Customer Request — Customer Request — Customer Request",
           "owner": "Casey Nguyen",
           "priority": "Medium",
-          "dueDate": "2026-08-11",
-          "notes": "Demo operations queue record for customer request; verify evidence and next action before completion."
+          "dueDate": "2026-08-26",
+          "notes": "Demo operations queue record for customer request; verify evidence and next action before completion. — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "operations-queue-007",
           "state": "queued",
-          "reference": "TENRIGADV-0007",
-          "subject": "Activate — Compliance Check",
+          "reference": "TENANT-RIG-0007",
+          "subject": "Activate — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "owner": "Cameron Diaz",
           "priority": "High",
-          "dueDate": "2026-08-13",
-          "notes": "Demo operations queue record for compliance check; verify evidence and next action before completion."
+          "dueDate": "2026-08-31",
+          "notes": "Demo operations queue record for compliance check; verify evidence and next action before completion. — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "operations-queue-008",
           "state": "queued",
-          "reference": "TENRIGADV-0008",
-          "subject": "Activate — Service Window",
+          "reference": "TENANT-RIG-0008",
+          "subject": "Activate — Service Window — Service Window — Service Window — Service Window",
           "owner": "Drew Wilson",
           "priority": "Critical",
-          "dueDate": "2026-08-15",
-          "notes": "Demo operations queue record for service window; verify evidence and next action before completion."
+          "dueDate": "2026-09-05",
+          "notes": "Demo operations queue record for service window; verify evidence and next action before completion. — Service Window — Service Window — Service Window"
         },
         {
           "id": "operations-queue-009",
           "state": "queued",
-          "reference": "TENRIGADV-0009",
-          "subject": "Activate — Quality Sample",
+          "reference": "TENANT-RIG-0009",
+          "subject": "Activate — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "owner": "Emerson Clark",
           "priority": "Low",
-          "dueDate": "2026-08-17",
-          "notes": "Demo operations queue record for quality sample; verify evidence and next action before completion."
+          "dueDate": "2026-09-10",
+          "notes": "Demo operations queue record for quality sample; verify evidence and next action before completion. — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "operations-queue-010",
           "state": "queued",
-          "reference": "TENRIGADV-0010",
-          "subject": "Activate — Management Review",
+          "reference": "TENANT-RIG-0010",
+          "subject": "Activate — Management Review — Management Review — Management Review — Management Review",
           "owner": "Hayden Kim",
           "priority": "Medium",
-          "dueDate": "2026-08-19",
-          "notes": "Demo operations queue record for management review; verify evidence and next action before completion."
+          "dueDate": "2026-09-15",
+          "notes": "Demo operations queue record for management review; verify evidence and next action before completion. — Management Review — Management Review — Management Review"
         },
         {
           "id": "operations-queue-011",
           "state": "queued",
-          "reference": "TENRIGADV-0011",
-          "subject": "Activate — Exception Follow-up",
+          "reference": "TENANT-RIG-0011",
+          "subject": "Activate — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "owner": "Jamie Rivera",
           "priority": "High",
-          "dueDate": "2026-08-21",
-          "notes": "Demo operations queue record for exception follow-up; verify evidence and next action before completion."
+          "dueDate": "2026-09-20",
+          "notes": "Demo operations queue record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "operations-queue-012",
           "state": "queued",
-          "reference": "TENRIGADV-0012",
-          "subject": "Activate — Evidence Package",
+          "reference": "TENANT-RIG-0012",
+          "subject": "Activate — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "owner": "Kai Thompson",
           "priority": "Critical",
-          "dueDate": "2026-08-23",
-          "notes": "Demo operations queue record for evidence package; verify evidence and next action before completion."
+          "dueDate": "2026-09-25",
+          "notes": "Demo operations queue record for evidence package; verify evidence and next action before completion. — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "operations-queue-013",
           "state": "queued",
-          "reference": "TENRIGADV-0013",
-          "subject": "Activate — Planning Cycle",
+          "reference": "TENANT-RIG-0013",
+          "subject": "Activate — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "owner": "Logan Shah",
           "priority": "Low",
-          "dueDate": "2026-08-25",
-          "notes": "Demo operations queue record for planning cycle; verify evidence and next action before completion."
+          "dueDate": "2026-09-30",
+          "notes": "Demo operations queue record for planning cycle; verify evidence and next action before completion. — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "operations-queue-014",
           "state": "queued",
-          "reference": "TENRIGADV-0014",
-          "subject": "Activate — Performance Review",
+          "reference": "TENANT-RIG-0014",
+          "subject": "Activate — Performance Review — Performance Review — Performance Review — Performance Review",
           "owner": "Parker Evans",
           "priority": "Medium",
-          "dueDate": "2026-08-27",
-          "notes": "Demo operations queue record for performance review; verify evidence and next action before completion."
+          "dueDate": "2026-10-05",
+          "notes": "Demo operations queue record for performance review; verify evidence and next action before completion. — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "operations-queue-015",
           "state": "queued",
-          "reference": "TENRIGADV-0015",
-          "subject": "Activate — Final Verification",
+          "reference": "TENANT-RIG-0015",
+          "subject": "Activate — Final Verification — Final Verification — Final Verification — Final Verification",
           "owner": "Quinn Murphy",
           "priority": "High",
-          "dueDate": "2026-08-29",
-          "notes": "Demo operations queue record for final verification; verify evidence and next action before completion."
+          "dueDate": "2026-10-10",
+          "notes": "Demo operations queue record for final verification; verify evidence and next action before completion. — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -583,152 +583,152 @@
         {
           "id": "quality-review-001",
           "state": "pending",
-          "reference": "TENRIGADV-0001",
-          "subject": "Activity Feed — North Region",
+          "reference": "TENANT-RIG-0001",
+          "subject": "Activity Feed — North Region — North Region — North Region — North Region",
           "owner": "Avery Morgan",
           "priority": "Low",
           "dueDate": "2026-08-01",
-          "notes": "Demo quality review record for north region; verify evidence and next action before completion."
+          "notes": "Demo quality review record for north region; verify evidence and next action before completion. — North Region — North Region — North Region"
         },
         {
           "id": "quality-review-002",
           "state": "pending",
-          "reference": "TENRIGADV-0002",
-          "subject": "Activity Feed — Enterprise Account",
+          "reference": "TENANT-RIG-0002",
+          "subject": "Activity Feed — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "owner": "Jordan Lee",
           "priority": "Medium",
-          "dueDate": "2026-08-03",
-          "notes": "Demo quality review record for enterprise account; verify evidence and next action before completion."
+          "dueDate": "2026-08-06",
+          "notes": "Demo quality review record for enterprise account; verify evidence and next action before completion. — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "quality-review-003",
           "state": "pending",
-          "reference": "TENRIGADV-0003",
-          "subject": "Activity Feed — Quarterly Cycle",
+          "reference": "TENANT-RIG-0003",
+          "subject": "Activity Feed — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "owner": "Taylor Brooks",
           "priority": "High",
-          "dueDate": "2026-08-05",
-          "notes": "Demo quality review record for quarterly cycle; verify evidence and next action before completion."
+          "dueDate": "2026-08-11",
+          "notes": "Demo quality review record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "quality-review-004",
           "state": "pending",
-          "reference": "TENRIGADV-0004",
-          "subject": "Activity Feed — Priority Queue",
+          "reference": "TENANT-RIG-0004",
+          "subject": "Activity Feed — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "owner": "Morgan Chen",
           "priority": "Critical",
-          "dueDate": "2026-08-07",
-          "notes": "Demo quality review record for priority queue; verify evidence and next action before completion."
+          "dueDate": "2026-08-16",
+          "notes": "Demo quality review record for priority queue; verify evidence and next action before completion. — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "quality-review-005",
           "state": "pending",
-          "reference": "TENRIGADV-0005",
-          "subject": "Activity Feed — Operations Review",
+          "reference": "TENANT-RIG-0005",
+          "subject": "Activity Feed — Operations Review — Operations Review — Operations Review — Operations Review",
           "owner": "Riley Patel",
           "priority": "Low",
-          "dueDate": "2026-08-09",
-          "notes": "Demo quality review record for operations review; verify evidence and next action before completion."
+          "dueDate": "2026-08-21",
+          "notes": "Demo quality review record for operations review; verify evidence and next action before completion. — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "quality-review-006",
           "state": "pending",
-          "reference": "TENRIGADV-0006",
-          "subject": "Activity Feed — Customer Request",
+          "reference": "TENANT-RIG-0006",
+          "subject": "Activity Feed — Customer Request — Customer Request — Customer Request — Customer Request",
           "owner": "Casey Nguyen",
           "priority": "Medium",
-          "dueDate": "2026-08-11",
-          "notes": "Demo quality review record for customer request; verify evidence and next action before completion."
+          "dueDate": "2026-08-26",
+          "notes": "Demo quality review record for customer request; verify evidence and next action before completion. — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "quality-review-007",
           "state": "pending",
-          "reference": "TENRIGADV-0007",
-          "subject": "Activity Feed — Compliance Check",
+          "reference": "TENANT-RIG-0007",
+          "subject": "Activity Feed — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "owner": "Cameron Diaz",
           "priority": "High",
-          "dueDate": "2026-08-13",
-          "notes": "Demo quality review record for compliance check; verify evidence and next action before completion."
+          "dueDate": "2026-08-31",
+          "notes": "Demo quality review record for compliance check; verify evidence and next action before completion. — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "quality-review-008",
           "state": "pending",
-          "reference": "TENRIGADV-0008",
-          "subject": "Activity Feed — Service Window",
+          "reference": "TENANT-RIG-0008",
+          "subject": "Activity Feed — Service Window — Service Window — Service Window — Service Window",
           "owner": "Drew Wilson",
           "priority": "Critical",
-          "dueDate": "2026-08-15",
-          "notes": "Demo quality review record for service window; verify evidence and next action before completion."
+          "dueDate": "2026-09-05",
+          "notes": "Demo quality review record for service window; verify evidence and next action before completion. — Service Window — Service Window — Service Window"
         },
         {
           "id": "quality-review-009",
           "state": "pending",
-          "reference": "TENRIGADV-0009",
-          "subject": "Activity Feed — Quality Sample",
+          "reference": "TENANT-RIG-0009",
+          "subject": "Activity Feed — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "owner": "Emerson Clark",
           "priority": "Low",
-          "dueDate": "2026-08-17",
-          "notes": "Demo quality review record for quality sample; verify evidence and next action before completion."
+          "dueDate": "2026-09-10",
+          "notes": "Demo quality review record for quality sample; verify evidence and next action before completion. — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "quality-review-010",
           "state": "pending",
-          "reference": "TENRIGADV-0010",
-          "subject": "Activity Feed — Management Review",
+          "reference": "TENANT-RIG-0010",
+          "subject": "Activity Feed — Management Review — Management Review — Management Review — Management Review",
           "owner": "Hayden Kim",
           "priority": "Medium",
-          "dueDate": "2026-08-19",
-          "notes": "Demo quality review record for management review; verify evidence and next action before completion."
+          "dueDate": "2026-09-15",
+          "notes": "Demo quality review record for management review; verify evidence and next action before completion. — Management Review — Management Review — Management Review"
         },
         {
           "id": "quality-review-011",
           "state": "pending",
-          "reference": "TENRIGADV-0011",
-          "subject": "Activity Feed — Exception Follow-up",
+          "reference": "TENANT-RIG-0011",
+          "subject": "Activity Feed — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "owner": "Jamie Rivera",
           "priority": "High",
-          "dueDate": "2026-08-21",
-          "notes": "Demo quality review record for exception follow-up; verify evidence and next action before completion."
+          "dueDate": "2026-09-20",
+          "notes": "Demo quality review record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "quality-review-012",
           "state": "pending",
-          "reference": "TENRIGADV-0012",
-          "subject": "Activity Feed — Evidence Package",
+          "reference": "TENANT-RIG-0012",
+          "subject": "Activity Feed — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "owner": "Kai Thompson",
           "priority": "Critical",
-          "dueDate": "2026-08-23",
-          "notes": "Demo quality review record for evidence package; verify evidence and next action before completion."
+          "dueDate": "2026-09-25",
+          "notes": "Demo quality review record for evidence package; verify evidence and next action before completion. — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "quality-review-013",
           "state": "pending",
-          "reference": "TENRIGADV-0013",
-          "subject": "Activity Feed — Planning Cycle",
+          "reference": "TENANT-RIG-0013",
+          "subject": "Activity Feed — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "owner": "Logan Shah",
           "priority": "Low",
-          "dueDate": "2026-08-25",
-          "notes": "Demo quality review record for planning cycle; verify evidence and next action before completion."
+          "dueDate": "2026-09-30",
+          "notes": "Demo quality review record for planning cycle; verify evidence and next action before completion. — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "quality-review-014",
           "state": "pending",
-          "reference": "TENRIGADV-0014",
-          "subject": "Activity Feed — Performance Review",
+          "reference": "TENANT-RIG-0014",
+          "subject": "Activity Feed — Performance Review — Performance Review — Performance Review — Performance Review",
           "owner": "Parker Evans",
           "priority": "Medium",
-          "dueDate": "2026-08-27",
-          "notes": "Demo quality review record for performance review; verify evidence and next action before completion."
+          "dueDate": "2026-10-05",
+          "notes": "Demo quality review record for performance review; verify evidence and next action before completion. — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "quality-review-015",
           "state": "pending",
-          "reference": "TENRIGADV-0015",
-          "subject": "Activity Feed — Final Verification",
+          "reference": "TENANT-RIG-0015",
+          "subject": "Activity Feed — Final Verification — Final Verification — Final Verification — Final Verification",
           "owner": "Quinn Murphy",
           "priority": "High",
-          "dueDate": "2026-08-29",
-          "notes": "Demo quality review record for final verification; verify evidence and next action before completion."
+          "dueDate": "2026-10-10",
+          "notes": "Demo quality review record for final verification; verify evidence and next action before completion. — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -826,152 +826,152 @@
         {
           "id": "risk-assessment-001",
           "state": "identified",
-          "reference": "TENRIGADV-0001",
-          "subject": "Advise — North Region",
+          "reference": "TENANT-RIG-0001",
+          "subject": "Advise — North Region — North Region — North Region — North Region",
           "owner": "Avery Morgan",
           "priority": "Low",
           "dueDate": "2026-08-01",
-          "notes": "Demo risk assessment record for north region; verify evidence and next action before completion."
+          "notes": "Demo risk assessment record for north region; verify evidence and next action before completion. — North Region — North Region — North Region"
         },
         {
           "id": "risk-assessment-002",
           "state": "identified",
-          "reference": "TENRIGADV-0002",
-          "subject": "Advise — Enterprise Account",
+          "reference": "TENANT-RIG-0002",
+          "subject": "Advise — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "owner": "Jordan Lee",
           "priority": "Medium",
-          "dueDate": "2026-08-03",
-          "notes": "Demo risk assessment record for enterprise account; verify evidence and next action before completion."
+          "dueDate": "2026-08-06",
+          "notes": "Demo risk assessment record for enterprise account; verify evidence and next action before completion. — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "risk-assessment-003",
           "state": "identified",
-          "reference": "TENRIGADV-0003",
-          "subject": "Advise — Quarterly Cycle",
+          "reference": "TENANT-RIG-0003",
+          "subject": "Advise — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "owner": "Taylor Brooks",
           "priority": "High",
-          "dueDate": "2026-08-05",
-          "notes": "Demo risk assessment record for quarterly cycle; verify evidence and next action before completion."
+          "dueDate": "2026-08-11",
+          "notes": "Demo risk assessment record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "risk-assessment-004",
           "state": "identified",
-          "reference": "TENRIGADV-0004",
-          "subject": "Advise — Priority Queue",
+          "reference": "TENANT-RIG-0004",
+          "subject": "Advise — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "owner": "Morgan Chen",
           "priority": "Critical",
-          "dueDate": "2026-08-07",
-          "notes": "Demo risk assessment record for priority queue; verify evidence and next action before completion."
+          "dueDate": "2026-08-16",
+          "notes": "Demo risk assessment record for priority queue; verify evidence and next action before completion. — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "risk-assessment-005",
           "state": "identified",
-          "reference": "TENRIGADV-0005",
-          "subject": "Advise — Operations Review",
+          "reference": "TENANT-RIG-0005",
+          "subject": "Advise — Operations Review — Operations Review — Operations Review — Operations Review",
           "owner": "Riley Patel",
           "priority": "Low",
-          "dueDate": "2026-08-09",
-          "notes": "Demo risk assessment record for operations review; verify evidence and next action before completion."
+          "dueDate": "2026-08-21",
+          "notes": "Demo risk assessment record for operations review; verify evidence and next action before completion. — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "risk-assessment-006",
           "state": "identified",
-          "reference": "TENRIGADV-0006",
-          "subject": "Advise — Customer Request",
+          "reference": "TENANT-RIG-0006",
+          "subject": "Advise — Customer Request — Customer Request — Customer Request — Customer Request",
           "owner": "Casey Nguyen",
           "priority": "Medium",
-          "dueDate": "2026-08-11",
-          "notes": "Demo risk assessment record for customer request; verify evidence and next action before completion."
+          "dueDate": "2026-08-26",
+          "notes": "Demo risk assessment record for customer request; verify evidence and next action before completion. — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "risk-assessment-007",
           "state": "identified",
-          "reference": "TENRIGADV-0007",
-          "subject": "Advise — Compliance Check",
+          "reference": "TENANT-RIG-0007",
+          "subject": "Advise — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "owner": "Cameron Diaz",
           "priority": "High",
-          "dueDate": "2026-08-13",
-          "notes": "Demo risk assessment record for compliance check; verify evidence and next action before completion."
+          "dueDate": "2026-08-31",
+          "notes": "Demo risk assessment record for compliance check; verify evidence and next action before completion. — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "risk-assessment-008",
           "state": "identified",
-          "reference": "TENRIGADV-0008",
-          "subject": "Advise — Service Window",
+          "reference": "TENANT-RIG-0008",
+          "subject": "Advise — Service Window — Service Window — Service Window — Service Window",
           "owner": "Drew Wilson",
           "priority": "Critical",
-          "dueDate": "2026-08-15",
-          "notes": "Demo risk assessment record for service window; verify evidence and next action before completion."
+          "dueDate": "2026-09-05",
+          "notes": "Demo risk assessment record for service window; verify evidence and next action before completion. — Service Window — Service Window — Service Window"
         },
         {
           "id": "risk-assessment-009",
           "state": "identified",
-          "reference": "TENRIGADV-0009",
-          "subject": "Advise — Quality Sample",
+          "reference": "TENANT-RIG-0009",
+          "subject": "Advise — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "owner": "Emerson Clark",
           "priority": "Low",
-          "dueDate": "2026-08-17",
-          "notes": "Demo risk assessment record for quality sample; verify evidence and next action before completion."
+          "dueDate": "2026-09-10",
+          "notes": "Demo risk assessment record for quality sample; verify evidence and next action before completion. — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "risk-assessment-010",
           "state": "identified",
-          "reference": "TENRIGADV-0010",
-          "subject": "Advise — Management Review",
+          "reference": "TENANT-RIG-0010",
+          "subject": "Advise — Management Review — Management Review — Management Review — Management Review",
           "owner": "Hayden Kim",
           "priority": "Medium",
-          "dueDate": "2026-08-19",
-          "notes": "Demo risk assessment record for management review; verify evidence and next action before completion."
+          "dueDate": "2026-09-15",
+          "notes": "Demo risk assessment record for management review; verify evidence and next action before completion. — Management Review — Management Review — Management Review"
         },
         {
           "id": "risk-assessment-011",
           "state": "identified",
-          "reference": "TENRIGADV-0011",
-          "subject": "Advise — Exception Follow-up",
+          "reference": "TENANT-RIG-0011",
+          "subject": "Advise — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "owner": "Jamie Rivera",
           "priority": "High",
-          "dueDate": "2026-08-21",
-          "notes": "Demo risk assessment record for exception follow-up; verify evidence and next action before completion."
+          "dueDate": "2026-09-20",
+          "notes": "Demo risk assessment record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "risk-assessment-012",
           "state": "identified",
-          "reference": "TENRIGADV-0012",
-          "subject": "Advise — Evidence Package",
+          "reference": "TENANT-RIG-0012",
+          "subject": "Advise — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "owner": "Kai Thompson",
           "priority": "Critical",
-          "dueDate": "2026-08-23",
-          "notes": "Demo risk assessment record for evidence package; verify evidence and next action before completion."
+          "dueDate": "2026-09-25",
+          "notes": "Demo risk assessment record for evidence package; verify evidence and next action before completion. — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "risk-assessment-013",
           "state": "identified",
-          "reference": "TENRIGADV-0013",
-          "subject": "Advise — Planning Cycle",
+          "reference": "TENANT-RIG-0013",
+          "subject": "Advise — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "owner": "Logan Shah",
           "priority": "Low",
-          "dueDate": "2026-08-25",
-          "notes": "Demo risk assessment record for planning cycle; verify evidence and next action before completion."
+          "dueDate": "2026-09-30",
+          "notes": "Demo risk assessment record for planning cycle; verify evidence and next action before completion. — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "risk-assessment-014",
           "state": "identified",
-          "reference": "TENRIGADV-0014",
-          "subject": "Advise — Performance Review",
+          "reference": "TENANT-RIG-0014",
+          "subject": "Advise — Performance Review — Performance Review — Performance Review — Performance Review",
           "owner": "Parker Evans",
           "priority": "Medium",
-          "dueDate": "2026-08-27",
-          "notes": "Demo risk assessment record for performance review; verify evidence and next action before completion."
+          "dueDate": "2026-10-05",
+          "notes": "Demo risk assessment record for performance review; verify evidence and next action before completion. — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "risk-assessment-015",
           "state": "identified",
-          "reference": "TENRIGADV-0015",
-          "subject": "Advise — Final Verification",
+          "reference": "TENANT-RIG-0015",
+          "subject": "Advise — Final Verification — Final Verification — Final Verification — Final Verification",
           "owner": "Quinn Murphy",
           "priority": "High",
-          "dueDate": "2026-08-29",
-          "notes": "Demo risk assessment record for final verification; verify evidence and next action before completion."
+          "dueDate": "2026-10-10",
+          "notes": "Demo risk assessment record for final verification; verify evidence and next action before completion. — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -1068,152 +1068,152 @@
         {
           "id": "evidence-management-001",
           "state": "requested",
-          "reference": "TENRIGADV-0001",
-          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — North Region",
+          "reference": "TENANT-RIG-0001",
+          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — North Region — North Region — North Region — North Region",
           "owner": "Avery Morgan",
           "priority": "Low",
           "dueDate": "2026-08-01",
-          "notes": "Demo evidence management record for north region; verify evidence and next action before completion."
+          "notes": "Demo evidence management record for north region; verify evidence and next action before completion. — North Region — North Region — North Region"
         },
         {
           "id": "evidence-management-002",
           "state": "requested",
-          "reference": "TENRIGADV-0002",
-          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Enterprise Account",
+          "reference": "TENANT-RIG-0002",
+          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "owner": "Jordan Lee",
           "priority": "Medium",
-          "dueDate": "2026-08-03",
-          "notes": "Demo evidence management record for enterprise account; verify evidence and next action before completion."
+          "dueDate": "2026-08-06",
+          "notes": "Demo evidence management record for enterprise account; verify evidence and next action before completion. — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "evidence-management-003",
           "state": "requested",
-          "reference": "TENRIGADV-0003",
-          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Quarterly Cycle",
+          "reference": "TENANT-RIG-0003",
+          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "owner": "Taylor Brooks",
           "priority": "High",
-          "dueDate": "2026-08-05",
-          "notes": "Demo evidence management record for quarterly cycle; verify evidence and next action before completion."
+          "dueDate": "2026-08-11",
+          "notes": "Demo evidence management record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "evidence-management-004",
           "state": "requested",
-          "reference": "TENRIGADV-0004",
-          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Priority Queue",
+          "reference": "TENANT-RIG-0004",
+          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "owner": "Morgan Chen",
           "priority": "Critical",
-          "dueDate": "2026-08-07",
-          "notes": "Demo evidence management record for priority queue; verify evidence and next action before completion."
+          "dueDate": "2026-08-16",
+          "notes": "Demo evidence management record for priority queue; verify evidence and next action before completion. — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "evidence-management-005",
           "state": "requested",
-          "reference": "TENRIGADV-0005",
-          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Operations Review",
+          "reference": "TENANT-RIG-0005",
+          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Operations Review — Operations Review — Operations Review — Operations Review",
           "owner": "Riley Patel",
           "priority": "Low",
-          "dueDate": "2026-08-09",
-          "notes": "Demo evidence management record for operations review; verify evidence and next action before completion."
+          "dueDate": "2026-08-21",
+          "notes": "Demo evidence management record for operations review; verify evidence and next action before completion. — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "evidence-management-006",
           "state": "requested",
-          "reference": "TENRIGADV-0006",
-          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Customer Request",
+          "reference": "TENANT-RIG-0006",
+          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Customer Request — Customer Request — Customer Request — Customer Request",
           "owner": "Casey Nguyen",
           "priority": "Medium",
-          "dueDate": "2026-08-11",
-          "notes": "Demo evidence management record for customer request; verify evidence and next action before completion."
+          "dueDate": "2026-08-26",
+          "notes": "Demo evidence management record for customer request; verify evidence and next action before completion. — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "evidence-management-007",
           "state": "requested",
-          "reference": "TENRIGADV-0007",
-          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Compliance Check",
+          "reference": "TENANT-RIG-0007",
+          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "owner": "Cameron Diaz",
           "priority": "High",
-          "dueDate": "2026-08-13",
-          "notes": "Demo evidence management record for compliance check; verify evidence and next action before completion."
+          "dueDate": "2026-08-31",
+          "notes": "Demo evidence management record for compliance check; verify evidence and next action before completion. — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "evidence-management-008",
           "state": "requested",
-          "reference": "TENRIGADV-0008",
-          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Service Window",
+          "reference": "TENANT-RIG-0008",
+          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Service Window — Service Window — Service Window — Service Window",
           "owner": "Drew Wilson",
           "priority": "Critical",
-          "dueDate": "2026-08-15",
-          "notes": "Demo evidence management record for service window; verify evidence and next action before completion."
+          "dueDate": "2026-09-05",
+          "notes": "Demo evidence management record for service window; verify evidence and next action before completion. — Service Window — Service Window — Service Window"
         },
         {
           "id": "evidence-management-009",
           "state": "requested",
-          "reference": "TENRIGADV-0009",
-          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Quality Sample",
+          "reference": "TENANT-RIG-0009",
+          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "owner": "Emerson Clark",
           "priority": "Low",
-          "dueDate": "2026-08-17",
-          "notes": "Demo evidence management record for quality sample; verify evidence and next action before completion."
+          "dueDate": "2026-09-10",
+          "notes": "Demo evidence management record for quality sample; verify evidence and next action before completion. — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "evidence-management-010",
           "state": "requested",
-          "reference": "TENRIGADV-0010",
-          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Management Review",
+          "reference": "TENANT-RIG-0010",
+          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Management Review — Management Review — Management Review — Management Review",
           "owner": "Hayden Kim",
           "priority": "Medium",
-          "dueDate": "2026-08-19",
-          "notes": "Demo evidence management record for management review; verify evidence and next action before completion."
+          "dueDate": "2026-09-15",
+          "notes": "Demo evidence management record for management review; verify evidence and next action before completion. — Management Review — Management Review — Management Review"
         },
         {
           "id": "evidence-management-011",
           "state": "requested",
-          "reference": "TENRIGADV-0011",
-          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Exception Follow-up",
+          "reference": "TENANT-RIG-0011",
+          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "owner": "Jamie Rivera",
           "priority": "High",
-          "dueDate": "2026-08-21",
-          "notes": "Demo evidence management record for exception follow-up; verify evidence and next action before completion."
+          "dueDate": "2026-09-20",
+          "notes": "Demo evidence management record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "evidence-management-012",
           "state": "requested",
-          "reference": "TENRIGADV-0012",
-          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Evidence Package",
+          "reference": "TENANT-RIG-0012",
+          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "owner": "Kai Thompson",
           "priority": "Critical",
-          "dueDate": "2026-08-23",
-          "notes": "Demo evidence management record for evidence package; verify evidence and next action before completion."
+          "dueDate": "2026-09-25",
+          "notes": "Demo evidence management record for evidence package; verify evidence and next action before completion. — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "evidence-management-013",
           "state": "requested",
-          "reference": "TENRIGADV-0013",
-          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Planning Cycle",
+          "reference": "TENANT-RIG-0013",
+          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "owner": "Logan Shah",
           "priority": "Low",
-          "dueDate": "2026-08-25",
-          "notes": "Demo evidence management record for planning cycle; verify evidence and next action before completion."
+          "dueDate": "2026-09-30",
+          "notes": "Demo evidence management record for planning cycle; verify evidence and next action before completion. — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "evidence-management-014",
           "state": "requested",
-          "reference": "TENRIGADV-0014",
-          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Performance Review",
+          "reference": "TENANT-RIG-0014",
+          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Performance Review — Performance Review — Performance Review — Performance Review",
           "owner": "Parker Evans",
           "priority": "Medium",
-          "dueDate": "2026-08-27",
-          "notes": "Demo evidence management record for performance review; verify evidence and next action before completion."
+          "dueDate": "2026-10-05",
+          "notes": "Demo evidence management record for performance review; verify evidence and next action before completion. — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "evidence-management-015",
           "state": "requested",
-          "reference": "TENRIGADV-0015",
-          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Final Verification",
+          "reference": "TENANT-RIG-0015",
+          "subject": "Agentic Bail Review Workflow With Multi Agent Risk Page — Final Verification — Final Verification — Final Verification — Final Verification",
           "owner": "Quinn Murphy",
           "priority": "High",
-          "dueDate": "2026-08-29",
-          "notes": "Demo evidence management record for final verification; verify evidence and next action before completion."
+          "dueDate": "2026-10-10",
+          "notes": "Demo evidence management record for final verification; verify evidence and next action before completion. — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -1311,152 +1311,152 @@
         {
           "id": "exception-resolution-001",
           "state": "open",
-          "reference": "TENRIGADV-0001",
-          "subject": "Agentic Plan — North Region",
+          "reference": "TENANT-RIG-0001",
+          "subject": "Agentic Plan — North Region — North Region — North Region — North Region",
           "owner": "Avery Morgan",
           "priority": "Low",
           "dueDate": "2026-08-01",
-          "notes": "Demo exception resolution record for north region; verify evidence and next action before completion."
+          "notes": "Demo exception resolution record for north region; verify evidence and next action before completion. — North Region — North Region — North Region"
         },
         {
           "id": "exception-resolution-002",
           "state": "open",
-          "reference": "TENRIGADV-0002",
-          "subject": "Agentic Plan — Enterprise Account",
+          "reference": "TENANT-RIG-0002",
+          "subject": "Agentic Plan — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "owner": "Jordan Lee",
           "priority": "Medium",
-          "dueDate": "2026-08-03",
-          "notes": "Demo exception resolution record for enterprise account; verify evidence and next action before completion."
+          "dueDate": "2026-08-06",
+          "notes": "Demo exception resolution record for enterprise account; verify evidence and next action before completion. — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "exception-resolution-003",
           "state": "open",
-          "reference": "TENRIGADV-0003",
-          "subject": "Agentic Plan — Quarterly Cycle",
+          "reference": "TENANT-RIG-0003",
+          "subject": "Agentic Plan — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "owner": "Taylor Brooks",
           "priority": "High",
-          "dueDate": "2026-08-05",
-          "notes": "Demo exception resolution record for quarterly cycle; verify evidence and next action before completion."
+          "dueDate": "2026-08-11",
+          "notes": "Demo exception resolution record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "exception-resolution-004",
           "state": "open",
-          "reference": "TENRIGADV-0004",
-          "subject": "Agentic Plan — Priority Queue",
+          "reference": "TENANT-RIG-0004",
+          "subject": "Agentic Plan — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "owner": "Morgan Chen",
           "priority": "Critical",
-          "dueDate": "2026-08-07",
-          "notes": "Demo exception resolution record for priority queue; verify evidence and next action before completion."
+          "dueDate": "2026-08-16",
+          "notes": "Demo exception resolution record for priority queue; verify evidence and next action before completion. — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "exception-resolution-005",
           "state": "open",
-          "reference": "TENRIGADV-0005",
-          "subject": "Agentic Plan — Operations Review",
+          "reference": "TENANT-RIG-0005",
+          "subject": "Agentic Plan — Operations Review — Operations Review — Operations Review — Operations Review",
           "owner": "Riley Patel",
           "priority": "Low",
-          "dueDate": "2026-08-09",
-          "notes": "Demo exception resolution record for operations review; verify evidence and next action before completion."
+          "dueDate": "2026-08-21",
+          "notes": "Demo exception resolution record for operations review; verify evidence and next action before completion. — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "exception-resolution-006",
           "state": "open",
-          "reference": "TENRIGADV-0006",
-          "subject": "Agentic Plan — Customer Request",
+          "reference": "TENANT-RIG-0006",
+          "subject": "Agentic Plan — Customer Request — Customer Request — Customer Request — Customer Request",
           "owner": "Casey Nguyen",
           "priority": "Medium",
-          "dueDate": "2026-08-11",
-          "notes": "Demo exception resolution record for customer request; verify evidence and next action before completion."
+          "dueDate": "2026-08-26",
+          "notes": "Demo exception resolution record for customer request; verify evidence and next action before completion. — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "exception-resolution-007",
           "state": "open",
-          "reference": "TENRIGADV-0007",
-          "subject": "Agentic Plan — Compliance Check",
+          "reference": "TENANT-RIG-0007",
+          "subject": "Agentic Plan — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "owner": "Cameron Diaz",
           "priority": "High",
-          "dueDate": "2026-08-13",
-          "notes": "Demo exception resolution record for compliance check; verify evidence and next action before completion."
+          "dueDate": "2026-08-31",
+          "notes": "Demo exception resolution record for compliance check; verify evidence and next action before completion. — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "exception-resolution-008",
           "state": "open",
-          "reference": "TENRIGADV-0008",
-          "subject": "Agentic Plan — Service Window",
+          "reference": "TENANT-RIG-0008",
+          "subject": "Agentic Plan — Service Window — Service Window — Service Window — Service Window",
           "owner": "Drew Wilson",
           "priority": "Critical",
-          "dueDate": "2026-08-15",
-          "notes": "Demo exception resolution record for service window; verify evidence and next action before completion."
+          "dueDate": "2026-09-05",
+          "notes": "Demo exception resolution record for service window; verify evidence and next action before completion. — Service Window — Service Window — Service Window"
         },
         {
           "id": "exception-resolution-009",
           "state": "open",
-          "reference": "TENRIGADV-0009",
-          "subject": "Agentic Plan — Quality Sample",
+          "reference": "TENANT-RIG-0009",
+          "subject": "Agentic Plan — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "owner": "Emerson Clark",
           "priority": "Low",
-          "dueDate": "2026-08-17",
-          "notes": "Demo exception resolution record for quality sample; verify evidence and next action before completion."
+          "dueDate": "2026-09-10",
+          "notes": "Demo exception resolution record for quality sample; verify evidence and next action before completion. — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "exception-resolution-010",
           "state": "open",
-          "reference": "TENRIGADV-0010",
-          "subject": "Agentic Plan — Management Review",
+          "reference": "TENANT-RIG-0010",
+          "subject": "Agentic Plan — Management Review — Management Review — Management Review — Management Review",
           "owner": "Hayden Kim",
           "priority": "Medium",
-          "dueDate": "2026-08-19",
-          "notes": "Demo exception resolution record for management review; verify evidence and next action before completion."
+          "dueDate": "2026-09-15",
+          "notes": "Demo exception resolution record for management review; verify evidence and next action before completion. — Management Review — Management Review — Management Review"
         },
         {
           "id": "exception-resolution-011",
           "state": "open",
-          "reference": "TENRIGADV-0011",
-          "subject": "Agentic Plan — Exception Follow-up",
+          "reference": "TENANT-RIG-0011",
+          "subject": "Agentic Plan — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "owner": "Jamie Rivera",
           "priority": "High",
-          "dueDate": "2026-08-21",
-          "notes": "Demo exception resolution record for exception follow-up; verify evidence and next action before completion."
+          "dueDate": "2026-09-20",
+          "notes": "Demo exception resolution record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "exception-resolution-012",
           "state": "open",
-          "reference": "TENRIGADV-0012",
-          "subject": "Agentic Plan — Evidence Package",
+          "reference": "TENANT-RIG-0012",
+          "subject": "Agentic Plan — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "owner": "Kai Thompson",
           "priority": "Critical",
-          "dueDate": "2026-08-23",
-          "notes": "Demo exception resolution record for evidence package; verify evidence and next action before completion."
+          "dueDate": "2026-09-25",
+          "notes": "Demo exception resolution record for evidence package; verify evidence and next action before completion. — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "exception-resolution-013",
           "state": "open",
-          "reference": "TENRIGADV-0013",
-          "subject": "Agentic Plan — Planning Cycle",
+          "reference": "TENANT-RIG-0013",
+          "subject": "Agentic Plan — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "owner": "Logan Shah",
           "priority": "Low",
-          "dueDate": "2026-08-25",
-          "notes": "Demo exception resolution record for planning cycle; verify evidence and next action before completion."
+          "dueDate": "2026-09-30",
+          "notes": "Demo exception resolution record for planning cycle; verify evidence and next action before completion. — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "exception-resolution-014",
           "state": "open",
-          "reference": "TENRIGADV-0014",
-          "subject": "Agentic Plan — Performance Review",
+          "reference": "TENANT-RIG-0014",
+          "subject": "Agentic Plan — Performance Review — Performance Review — Performance Review — Performance Review",
           "owner": "Parker Evans",
           "priority": "Medium",
-          "dueDate": "2026-08-27",
-          "notes": "Demo exception resolution record for performance review; verify evidence and next action before completion."
+          "dueDate": "2026-10-05",
+          "notes": "Demo exception resolution record for performance review; verify evidence and next action before completion. — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "exception-resolution-015",
           "state": "open",
-          "reference": "TENRIGADV-0015",
-          "subject": "Agentic Plan — Final Verification",
+          "reference": "TENANT-RIG-0015",
+          "subject": "Agentic Plan — Final Verification — Final Verification — Final Verification — Final Verification",
           "owner": "Quinn Murphy",
           "priority": "High",
-          "dueDate": "2026-08-29",
-          "notes": "Demo exception resolution record for final verification; verify evidence and next action before completion."
+          "dueDate": "2026-10-10",
+          "notes": "Demo exception resolution record for final verification; verify evidence and next action before completion. — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -1554,152 +1554,152 @@
         {
           "id": "approval-control-001",
           "state": "prepared",
-          "reference": "TENRIGADV-0001",
-          "subject": "AI Advisor — North Region",
+          "reference": "TENANT-RIG-0001",
+          "subject": "AI Advisor — North Region — North Region — North Region — North Region",
           "owner": "Avery Morgan",
           "priority": "Low",
           "dueDate": "2026-08-01",
-          "notes": "Demo approval control record for north region; verify evidence and next action before completion."
+          "notes": "Demo approval control record for north region; verify evidence and next action before completion. — North Region — North Region — North Region"
         },
         {
           "id": "approval-control-002",
           "state": "prepared",
-          "reference": "TENRIGADV-0002",
-          "subject": "AI Advisor — Enterprise Account",
+          "reference": "TENANT-RIG-0002",
+          "subject": "AI Advisor — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "owner": "Jordan Lee",
           "priority": "Medium",
-          "dueDate": "2026-08-03",
-          "notes": "Demo approval control record for enterprise account; verify evidence and next action before completion."
+          "dueDate": "2026-08-06",
+          "notes": "Demo approval control record for enterprise account; verify evidence and next action before completion. — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "approval-control-003",
           "state": "prepared",
-          "reference": "TENRIGADV-0003",
-          "subject": "AI Advisor — Quarterly Cycle",
+          "reference": "TENANT-RIG-0003",
+          "subject": "AI Advisor — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "owner": "Taylor Brooks",
           "priority": "High",
-          "dueDate": "2026-08-05",
-          "notes": "Demo approval control record for quarterly cycle; verify evidence and next action before completion."
+          "dueDate": "2026-08-11",
+          "notes": "Demo approval control record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "approval-control-004",
           "state": "prepared",
-          "reference": "TENRIGADV-0004",
-          "subject": "AI Advisor — Priority Queue",
+          "reference": "TENANT-RIG-0004",
+          "subject": "AI Advisor — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "owner": "Morgan Chen",
           "priority": "Critical",
-          "dueDate": "2026-08-07",
-          "notes": "Demo approval control record for priority queue; verify evidence and next action before completion."
+          "dueDate": "2026-08-16",
+          "notes": "Demo approval control record for priority queue; verify evidence and next action before completion. — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "approval-control-005",
           "state": "prepared",
-          "reference": "TENRIGADV-0005",
-          "subject": "AI Advisor — Operations Review",
+          "reference": "TENANT-RIG-0005",
+          "subject": "AI Advisor — Operations Review — Operations Review — Operations Review — Operations Review",
           "owner": "Riley Patel",
           "priority": "Low",
-          "dueDate": "2026-08-09",
-          "notes": "Demo approval control record for operations review; verify evidence and next action before completion."
+          "dueDate": "2026-08-21",
+          "notes": "Demo approval control record for operations review; verify evidence and next action before completion. — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "approval-control-006",
           "state": "prepared",
-          "reference": "TENRIGADV-0006",
-          "subject": "AI Advisor — Customer Request",
+          "reference": "TENANT-RIG-0006",
+          "subject": "AI Advisor — Customer Request — Customer Request — Customer Request — Customer Request",
           "owner": "Casey Nguyen",
           "priority": "Medium",
-          "dueDate": "2026-08-11",
-          "notes": "Demo approval control record for customer request; verify evidence and next action before completion."
+          "dueDate": "2026-08-26",
+          "notes": "Demo approval control record for customer request; verify evidence and next action before completion. — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "approval-control-007",
           "state": "prepared",
-          "reference": "TENRIGADV-0007",
-          "subject": "AI Advisor — Compliance Check",
+          "reference": "TENANT-RIG-0007",
+          "subject": "AI Advisor — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "owner": "Cameron Diaz",
           "priority": "High",
-          "dueDate": "2026-08-13",
-          "notes": "Demo approval control record for compliance check; verify evidence and next action before completion."
+          "dueDate": "2026-08-31",
+          "notes": "Demo approval control record for compliance check; verify evidence and next action before completion. — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "approval-control-008",
           "state": "prepared",
-          "reference": "TENRIGADV-0008",
-          "subject": "AI Advisor — Service Window",
+          "reference": "TENANT-RIG-0008",
+          "subject": "AI Advisor — Service Window — Service Window — Service Window — Service Window",
           "owner": "Drew Wilson",
           "priority": "Critical",
-          "dueDate": "2026-08-15",
-          "notes": "Demo approval control record for service window; verify evidence and next action before completion."
+          "dueDate": "2026-09-05",
+          "notes": "Demo approval control record for service window; verify evidence and next action before completion. — Service Window — Service Window — Service Window"
         },
         {
           "id": "approval-control-009",
           "state": "prepared",
-          "reference": "TENRIGADV-0009",
-          "subject": "AI Advisor — Quality Sample",
+          "reference": "TENANT-RIG-0009",
+          "subject": "AI Advisor — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "owner": "Emerson Clark",
           "priority": "Low",
-          "dueDate": "2026-08-17",
-          "notes": "Demo approval control record for quality sample; verify evidence and next action before completion."
+          "dueDate": "2026-09-10",
+          "notes": "Demo approval control record for quality sample; verify evidence and next action before completion. — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "approval-control-010",
           "state": "prepared",
-          "reference": "TENRIGADV-0010",
-          "subject": "AI Advisor — Management Review",
+          "reference": "TENANT-RIG-0010",
+          "subject": "AI Advisor — Management Review — Management Review — Management Review — Management Review",
           "owner": "Hayden Kim",
           "priority": "Medium",
-          "dueDate": "2026-08-19",
-          "notes": "Demo approval control record for management review; verify evidence and next action before completion."
+          "dueDate": "2026-09-15",
+          "notes": "Demo approval control record for management review; verify evidence and next action before completion. — Management Review — Management Review — Management Review"
         },
         {
           "id": "approval-control-011",
           "state": "prepared",
-          "reference": "TENRIGADV-0011",
-          "subject": "AI Advisor — Exception Follow-up",
+          "reference": "TENANT-RIG-0011",
+          "subject": "AI Advisor — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "owner": "Jamie Rivera",
           "priority": "High",
-          "dueDate": "2026-08-21",
-          "notes": "Demo approval control record for exception follow-up; verify evidence and next action before completion."
+          "dueDate": "2026-09-20",
+          "notes": "Demo approval control record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "approval-control-012",
           "state": "prepared",
-          "reference": "TENRIGADV-0012",
-          "subject": "AI Advisor — Evidence Package",
+          "reference": "TENANT-RIG-0012",
+          "subject": "AI Advisor — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "owner": "Kai Thompson",
           "priority": "Critical",
-          "dueDate": "2026-08-23",
-          "notes": "Demo approval control record for evidence package; verify evidence and next action before completion."
+          "dueDate": "2026-09-25",
+          "notes": "Demo approval control record for evidence package; verify evidence and next action before completion. — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "approval-control-013",
           "state": "prepared",
-          "reference": "TENRIGADV-0013",
-          "subject": "AI Advisor — Planning Cycle",
+          "reference": "TENANT-RIG-0013",
+          "subject": "AI Advisor — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "owner": "Logan Shah",
           "priority": "Low",
-          "dueDate": "2026-08-25",
-          "notes": "Demo approval control record for planning cycle; verify evidence and next action before completion."
+          "dueDate": "2026-09-30",
+          "notes": "Demo approval control record for planning cycle; verify evidence and next action before completion. — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "approval-control-014",
           "state": "prepared",
-          "reference": "TENRIGADV-0014",
-          "subject": "AI Advisor — Performance Review",
+          "reference": "TENANT-RIG-0014",
+          "subject": "AI Advisor — Performance Review — Performance Review — Performance Review — Performance Review",
           "owner": "Parker Evans",
           "priority": "Medium",
-          "dueDate": "2026-08-27",
-          "notes": "Demo approval control record for performance review; verify evidence and next action before completion."
+          "dueDate": "2026-10-05",
+          "notes": "Demo approval control record for performance review; verify evidence and next action before completion. — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "approval-control-015",
           "state": "prepared",
-          "reference": "TENRIGADV-0015",
-          "subject": "AI Advisor — Final Verification",
+          "reference": "TENANT-RIG-0015",
+          "subject": "AI Advisor — Final Verification — Final Verification — Final Verification — Final Verification",
           "owner": "Quinn Murphy",
           "priority": "High",
-          "dueDate": "2026-08-29",
-          "notes": "Demo approval control record for final verification; verify evidence and next action before completion."
+          "dueDate": "2026-10-10",
+          "notes": "Demo approval control record for final verification; verify evidence and next action before completion. — Final Verification — Final Verification — Final Verification"
         }
       ]
     },
@@ -1797,152 +1797,152 @@
         {
           "id": "performance-reporting-001",
           "state": "requested",
-          "reference": "TENRIGADV-0001",
-          "subject": "AI Insights — North Region",
+          "reference": "TENANT-RIG-0001",
+          "subject": "AI Insights — North Region — North Region — North Region — North Region",
           "owner": "Avery Morgan",
           "priority": "Low",
           "dueDate": "2026-08-01",
-          "notes": "Demo performance reporting record for north region; verify evidence and next action before completion."
+          "notes": "Demo performance reporting record for north region; verify evidence and next action before completion. — North Region — North Region — North Region"
         },
         {
           "id": "performance-reporting-002",
           "state": "requested",
-          "reference": "TENRIGADV-0002",
-          "subject": "AI Insights — Enterprise Account",
+          "reference": "TENANT-RIG-0002",
+          "subject": "AI Insights — Enterprise Account — Enterprise Account — Enterprise Account — Enterprise Account",
           "owner": "Jordan Lee",
           "priority": "Medium",
-          "dueDate": "2026-08-03",
-          "notes": "Demo performance reporting record for enterprise account; verify evidence and next action before completion."
+          "dueDate": "2026-08-06",
+          "notes": "Demo performance reporting record for enterprise account; verify evidence and next action before completion. — Enterprise Account — Enterprise Account — Enterprise Account"
         },
         {
           "id": "performance-reporting-003",
           "state": "requested",
-          "reference": "TENRIGADV-0003",
-          "subject": "AI Insights — Quarterly Cycle",
+          "reference": "TENANT-RIG-0003",
+          "subject": "AI Insights — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle",
           "owner": "Taylor Brooks",
           "priority": "High",
-          "dueDate": "2026-08-05",
-          "notes": "Demo performance reporting record for quarterly cycle; verify evidence and next action before completion."
+          "dueDate": "2026-08-11",
+          "notes": "Demo performance reporting record for quarterly cycle; verify evidence and next action before completion. — Quarterly Cycle — Quarterly Cycle — Quarterly Cycle"
         },
         {
           "id": "performance-reporting-004",
           "state": "requested",
-          "reference": "TENRIGADV-0004",
-          "subject": "AI Insights — Priority Queue",
+          "reference": "TENANT-RIG-0004",
+          "subject": "AI Insights — Priority Queue — Priority Queue — Priority Queue — Priority Queue",
           "owner": "Morgan Chen",
           "priority": "Critical",
-          "dueDate": "2026-08-07",
-          "notes": "Demo performance reporting record for priority queue; verify evidence and next action before completion."
+          "dueDate": "2026-08-16",
+          "notes": "Demo performance reporting record for priority queue; verify evidence and next action before completion. — Priority Queue — Priority Queue — Priority Queue"
         },
         {
           "id": "performance-reporting-005",
           "state": "requested",
-          "reference": "TENRIGADV-0005",
-          "subject": "AI Insights — Operations Review",
+          "reference": "TENANT-RIG-0005",
+          "subject": "AI Insights — Operations Review — Operations Review — Operations Review — Operations Review",
           "owner": "Riley Patel",
           "priority": "Low",
-          "dueDate": "2026-08-09",
-          "notes": "Demo performance reporting record for operations review; verify evidence and next action before completion."
+          "dueDate": "2026-08-21",
+          "notes": "Demo performance reporting record for operations review; verify evidence and next action before completion. — Operations Review — Operations Review — Operations Review"
         },
         {
           "id": "performance-reporting-006",
           "state": "requested",
-          "reference": "TENRIGADV-0006",
-          "subject": "AI Insights — Customer Request",
+          "reference": "TENANT-RIG-0006",
+          "subject": "AI Insights — Customer Request — Customer Request — Customer Request — Customer Request",
           "owner": "Casey Nguyen",
           "priority": "Medium",
-          "dueDate": "2026-08-11",
-          "notes": "Demo performance reporting record for customer request; verify evidence and next action before completion."
+          "dueDate": "2026-08-26",
+          "notes": "Demo performance reporting record for customer request; verify evidence and next action before completion. — Customer Request — Customer Request — Customer Request"
         },
         {
           "id": "performance-reporting-007",
           "state": "requested",
-          "reference": "TENRIGADV-0007",
-          "subject": "AI Insights — Compliance Check",
+          "reference": "TENANT-RIG-0007",
+          "subject": "AI Insights — Compliance Check — Compliance Check — Compliance Check — Compliance Check",
           "owner": "Cameron Diaz",
           "priority": "High",
-          "dueDate": "2026-08-13",
-          "notes": "Demo performance reporting record for compliance check; verify evidence and next action before completion."
+          "dueDate": "2026-08-31",
+          "notes": "Demo performance reporting record for compliance check; verify evidence and next action before completion. — Compliance Check — Compliance Check — Compliance Check"
         },
         {
           "id": "performance-reporting-008",
           "state": "requested",
-          "reference": "TENRIGADV-0008",
-          "subject": "AI Insights — Service Window",
+          "reference": "TENANT-RIG-0008",
+          "subject": "AI Insights — Service Window — Service Window — Service Window — Service Window",
           "owner": "Drew Wilson",
           "priority": "Critical",
-          "dueDate": "2026-08-15",
-          "notes": "Demo performance reporting record for service window; verify evidence and next action before completion."
+          "dueDate": "2026-09-05",
+          "notes": "Demo performance reporting record for service window; verify evidence and next action before completion. — Service Window — Service Window — Service Window"
         },
         {
           "id": "performance-reporting-009",
           "state": "requested",
-          "reference": "TENRIGADV-0009",
-          "subject": "AI Insights — Quality Sample",
+          "reference": "TENANT-RIG-0009",
+          "subject": "AI Insights — Quality Sample — Quality Sample — Quality Sample — Quality Sample",
           "owner": "Emerson Clark",
           "priority": "Low",
-          "dueDate": "2026-08-17",
-          "notes": "Demo performance reporting record for quality sample; verify evidence and next action before completion."
+          "dueDate": "2026-09-10",
+          "notes": "Demo performance reporting record for quality sample; verify evidence and next action before completion. — Quality Sample — Quality Sample — Quality Sample"
         },
         {
           "id": "performance-reporting-010",
           "state": "requested",
-          "reference": "TENRIGADV-0010",
-          "subject": "AI Insights — Management Review",
+          "reference": "TENANT-RIG-0010",
+          "subject": "AI Insights — Management Review — Management Review — Management Review — Management Review",
           "owner": "Hayden Kim",
           "priority": "Medium",
-          "dueDate": "2026-08-19",
-          "notes": "Demo performance reporting record for management review; verify evidence and next action before completion."
+          "dueDate": "2026-09-15",
+          "notes": "Demo performance reporting record for management review; verify evidence and next action before completion. — Management Review — Management Review — Management Review"
         },
         {
           "id": "performance-reporting-011",
           "state": "requested",
-          "reference": "TENRIGADV-0011",
-          "subject": "AI Insights — Exception Follow-up",
+          "reference": "TENANT-RIG-0011",
+          "subject": "AI Insights — Exception Follow-up — Exception Follow-up — Exception Follow-up — Exception Follow-up",
           "owner": "Jamie Rivera",
           "priority": "High",
-          "dueDate": "2026-08-21",
-          "notes": "Demo performance reporting record for exception follow-up; verify evidence and next action before completion."
+          "dueDate": "2026-09-20",
+          "notes": "Demo performance reporting record for exception follow-up; verify evidence and next action before completion. — Exception Follow-up — Exception Follow-up — Exception Follow-up"
         },
         {
           "id": "performance-reporting-012",
           "state": "requested",
-          "reference": "TENRIGADV-0012",
-          "subject": "AI Insights — Evidence Package",
+          "reference": "TENANT-RIG-0012",
+          "subject": "AI Insights — Evidence Package — Evidence Package — Evidence Package — Evidence Package",
           "owner": "Kai Thompson",
           "priority": "Critical",
-          "dueDate": "2026-08-23",
-          "notes": "Demo performance reporting record for evidence package; verify evidence and next action before completion."
+          "dueDate": "2026-09-25",
+          "notes": "Demo performance reporting record for evidence package; verify evidence and next action before completion. — Evidence Package — Evidence Package — Evidence Package"
         },
         {
           "id": "performance-reporting-013",
           "state": "requested",
-          "reference": "TENRIGADV-0013",
-          "subject": "AI Insights — Planning Cycle",
+          "reference": "TENANT-RIG-0013",
+          "subject": "AI Insights — Planning Cycle — Planning Cycle — Planning Cycle — Planning Cycle",
           "owner": "Logan Shah",
           "priority": "Low",
-          "dueDate": "2026-08-25",
-          "notes": "Demo performance reporting record for planning cycle; verify evidence and next action before completion."
+          "dueDate": "2026-09-30",
+          "notes": "Demo performance reporting record for planning cycle; verify evidence and next action before completion. — Planning Cycle — Planning Cycle — Planning Cycle"
         },
         {
           "id": "performance-reporting-014",
           "state": "requested",
-          "reference": "TENRIGADV-0014",
-          "subject": "AI Insights — Performance Review",
+          "reference": "TENANT-RIG-0014",
+          "subject": "AI Insights — Performance Review — Performance Review — Performance Review — Performance Review",
           "owner": "Parker Evans",
           "priority": "Medium",
-          "dueDate": "2026-08-27",
-          "notes": "Demo performance reporting record for performance review; verify evidence and next action before completion."
+          "dueDate": "2026-10-05",
+          "notes": "Demo performance reporting record for performance review; verify evidence and next action before completion. — Performance Review — Performance Review — Performance Review"
         },
         {
           "id": "performance-reporting-015",
           "state": "requested",
-          "reference": "TENRIGADV-0015",
-          "subject": "AI Insights — Final Verification",
+          "reference": "TENANT-RIG-0015",
+          "subject": "AI Insights — Final Verification — Final Verification — Final Verification — Final Verification",
           "owner": "Quinn Murphy",
           "priority": "High",
-          "dueDate": "2026-08-29",
-          "notes": "Demo performance reporting record for final verification; verify evidence and next action before completion."
+          "dueDate": "2026-10-10",
+          "notes": "Demo performance reporting record for final verification; verify evidence and next action before completion. — Final Verification — Final Verification — Final Verification"
         }
       ]
     }

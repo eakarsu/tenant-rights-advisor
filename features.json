@@ -190,10 +190,64 @@
     ]
   },
   {
+    "name": "AI Center",
+    "canonicalKey": "ai",
+    "aliases": [
+      "AI"
+    ],
+    "kinds": [
+      "ai-page",
+      "page"
+    ],
+    "routes": [
+      "/AICenter",
+      "/CrudPage",
+      "/ai-center"
+    ],
+    "sourceProjects": [
+      "AIDivorceFamilyLawNavigator",
+      "AIEstatePlanningDigitalLegacy"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/tenant-rights-advisor"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIEstatePlanningDigitalLegacy",
+        "path": "frontend/src/pages/CrudPage.js:1",
+        "route": "/CrudPage",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "client/src/pages/AICenter.jsx:1",
+        "route": "/ai-center",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "client/src/App.jsx:67",
+        "route": "/ai-center",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "client/src/pages/AICenter.jsx",
+        "route": "/AICenter",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      }
+    ]
+  },
+  {
     "name": "AI Insights",
     "canonicalKey": "ai insight",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "page"
     ],
     "routes": [
@@ -207,6 +261,13 @@
       "legal-compliance-risk/tenant-rights-advisor"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIBailBondRiskAssessor",
+        "path": "client/src/pages/AIInsights.js:1",
+        "route": "/ai-insights",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
       {
         "kind": "page",
         "sourceProject": "AIBailBondRiskAssessor",
@@ -751,12 +812,14 @@
     "canonicalKey": "case outcome",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api",
       "page"
     ],
     "routes": [
       "/CaseOutcome",
-      "/case-outcome"
+      "/case-outcome",
+      "/case-outcome?tool=case-outcome"
     ],
     "sourceProjects": [
       "AITenantRightsAdvisor"
@@ -765,6 +828,13 @@
       "legal-compliance-risk/tenant-rights-advisor"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "frontend/src/pages/CaseOutcome.jsx:62",
+        "route": "/case-outcome?tool=case-outcome",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
@@ -2908,12 +2978,14 @@
     "canonicalKey": "assembly document",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api",
       "page"
     ],
     "routes": [
       "/DocumentAssembly",
-      "/document-assembly"
+      "/document-assembly",
+      "/document-assembly?tool=document-assembly"
     ],
     "sourceProjects": [
       "AITenantRightsAdvisor"
@@ -2922,6 +2994,13 @@
       "legal-compliance-risk/tenant-rights-advisor"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "frontend/src/pages/DocumentAssembly.jsx:68",
+        "route": "/document-assembly?tool=document-assembly",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
@@ -2967,6 +3046,32 @@
         "sourceProject": "AIDivorceFamilyLawNavigator",
         "path": "client/src/App.jsx:37",
         "route": "document-gen",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      }
+    ]
+  },
+  {
+    "name": "Document Upload Amp AI Review",
+    "canonicalKey": "ai amp document review upload",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/uploads"
+    ],
+    "sourceProjects": [
+      "AIDivorceFamilyLawNavigator"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/tenant-rights-advisor"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "client/src/pages/UploadsPage.jsx:1",
+        "route": "/uploads",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
     ]
@@ -3106,9 +3211,11 @@
     "canonicalKey": "advice estate",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api"
     ],
     "routes": [
+      "/ai-advisor?tool=estate-advice",
       "/estate-advice"
     ],
     "sourceProjects": [
@@ -3118,6 +3225,13 @@
       "legal-compliance-risk/tenant-rights-advisor"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIEstatePlanningDigitalLegacy",
+        "path": "frontend/src/pages/AIAdvisor.js:78",
+        "route": "/ai-advisor?tool=estate-advice",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
       {
         "kind": "api",
         "sourceProject": "AIEstatePlanningDigitalLegacy",
@@ -3236,6 +3350,7 @@
     "canonicalKey": "defense eviction",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api",
       "page"
     ],
@@ -3251,6 +3366,13 @@
       "legal-compliance-risk/tenant-rights-advisor"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "frontend/src/pages/EvictionDefense.jsx:1",
+        "route": "/tenancies/:id/eviction-defense",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
@@ -4970,6 +5092,57 @@
     ]
   },
   {
+    "name": "Lease Analyzer",
+    "canonicalKey": "analyzer lease",
+    "aliases": [],
+    "kinds": [
+      "ai-page",
+      "api",
+      "page"
+    ],
+    "routes": [
+      "/LeaseAnalyzer",
+      "/lease-analyzer",
+      "/tenancies/:id/lease-analyzer"
+    ],
+    "sourceProjects": [
+      "AITenantRightsAdvisor"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/tenant-rights-advisor"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "frontend/src/pages/LeaseAnalyzer.jsx:1",
+        "route": "/tenancies/:id/lease-analyzer",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "backend/routes/ai.js:59",
+        "route": "/lease-analyzer",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "frontend/src/App.jsx:64",
+        "route": "/tenancies/:id/lease-analyzer",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "frontend/src/pages/LeaseAnalyzer.jsx",
+        "route": "/LeaseAnalyzer",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      }
+    ]
+  },
+  {
     "name": "Legacy Message Schedule",
     "canonicalKey": "legacy message schedule",
     "aliases": [],
@@ -5026,12 +5199,14 @@
     "canonicalKey": "chat expert legal",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api",
       "page"
     ],
     "routes": [
       "/LegalExpertChat",
-      "/legal-expert-chat"
+      "/legal-expert-chat",
+      "/legal-expert-chat?tool=legal-expert-chat"
     ],
     "sourceProjects": [
       "AITenantRightsAdvisor"
@@ -5040,6 +5215,13 @@
       "legal-compliance-risk/tenant-rights-advisor"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "frontend/src/pages/LegalExpertChat.jsx:54",
+        "route": "/legal-expert-chat?tool=legal-expert-chat",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
@@ -5188,12 +5370,14 @@
     "canonicalKey": "law local lookup",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api",
       "page"
     ],
     "routes": [
       "/LocalLawLookup",
-      "/local-law-lookup"
+      "/local-law-lookup",
+      "/local-law-lookup?tool=local-law-lookup"
     ],
     "sourceProjects": [
       "AITenantRightsAdvisor"
@@ -5202,6 +5386,13 @@
       "legal-compliance-risk/tenant-rights-advisor"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "frontend/src/pages/LocalLawLookup.jsx:68",
+        "route": "/local-law-lookup?tool=local-law-lookup",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
@@ -5553,22 +5744,29 @@
     "canonicalKey": "negotiation simulator",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api",
       "page"
     ],
     "routes": [
       "/NegotiationSimulator",
-      "/negotiation-simulator"
+      "/negotiation-simulator",
+      "/negotiation-simulator?tool=negotiation-simulator"
     ],
     "sourceProjects": [
-      "AIContractLifecycleManager",
       "AITenantRightsAdvisor"
     ],
     "consolidatedFromApps": [
-      "legal-compliance-risk/contract-negotiation-assistant",
       "legal-compliance-risk/tenant-rights-advisor"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "frontend/src/pages/NegotiationSimulator.jsx:57",
+        "route": "/negotiation-simulator?tool=negotiation-simulator",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
@@ -5589,13 +5787,6 @@
         "path": "frontend/src/pages/NegotiationSimulator.jsx",
         "route": "/NegotiationSimulator",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AIContractLifecycleManager",
-        "path": "backend/routes/aiCustom.js:182",
-        "route": "/negotiation-simulator",
-        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
       }
     ]
   },
@@ -6064,12 +6255,14 @@
     "canonicalKey": "generator notice",
     "aliases": [],
     "kinds": [
+      "ai-page",
       "api",
       "page"
     ],
     "routes": [
       "/NoticeGenerator",
-      "/notice-generator"
+      "/notice-generator",
+      "/tenancies/:id/notice"
     ],
     "sourceProjects": [
       "AITenantRightsAdvisor"
@@ -6078,6 +6271,13 @@
       "legal-compliance-risk/tenant-rights-advisor"
     ],
     "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AITenantRightsAdvisor",
+        "path": "frontend/src/pages/NoticeGenerator.jsx:1",
+        "route": "/tenancies/:id/notice",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
@@ -6449,6 +6649,32 @@
         "sourceProject": "AIDivorceFamilyLawNavigator",
         "path": "server/routes/aiNew.js:220",
         "route": "/predict-trial-outcome",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      }
+    ]
+  },
+  {
+    "name": "Predictive AI Tools",
+    "canonicalKey": "ai predictive",
+    "aliases": [],
+    "kinds": [
+      "ai-page"
+    ],
+    "routes": [
+      "/predictive-ai"
+    ],
+    "sourceProjects": [
+      "AIDivorceFamilyLawNavigator"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/tenant-rights-advisor"
+    ],
+    "evidence": [
+      {
+        "kind": "ai-page",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "client/src/pages/PredictiveAIPage.jsx:1",
+        "route": "/predictive-ai",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
     ]
