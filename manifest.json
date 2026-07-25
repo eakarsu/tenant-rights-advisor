@@ -11,10 +11,10 @@
     "AIEstatePlanningDigitalLegacy",
     "AITenantRightsAdvisor"
   ],
-  "featureCount": 224,
-  "candidateFeatureCount": 296,
-  "eliminatedSimilarFeatures": 72,
-  "evidenceCount": 431,
+  "featureCount": 228,
+  "candidateFeatureCount": 318,
+  "eliminatedSimilarFeatures": 90,
+  "evidenceCount": 429,
   "aiPageCount": 0,
   "sourceAIPageCount": 0,
   "featureEvidencePolicy": "Existing source routes, pages, APIs, models, schemas, and navigation only",
@@ -25,6 +25,6 @@
     "seededTables": 29,
     "seededRows": 440
   },
-  "visibleFeatureCount": 35,
+  "visibleFeatureCount": 34,
   "featureVisibilityMode": "seeded-or-ai"
 }

@@ -1,107 +1,5 @@
 [
   {
-    "name": "AI Advisor",
-    "canonicalKey": "advisor ai",
-    "aliases": [],
-    "kinds": [
-      "page"
-    ],
-    "routes": [
-      "/AIAdvisor",
-      "/ai-advisor"
-    ],
-    "sourceProjects": [
-      "AIEstatePlanningDigitalLegacy"
-    ],
-    "consolidatedFromApps": [
-      "legal-compliance-risk/tenant-rights-advisor"
-    ],
-    "evidence": [
-      {
-        "kind": "page",
-        "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "frontend/src/App.js:304",
-        "route": "/ai-advisor",
-        "originApp": "legal-compliance-risk/tenant-rights-advisor"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "frontend/src/pages/AIAdvisor.js",
-        "route": "/AIAdvisor",
-        "originApp": "legal-compliance-risk/tenant-rights-advisor"
-      }
-    ]
-  },
-  {
-    "name": "AI Insights",
-    "canonicalKey": "ai insight",
-    "aliases": [],
-    "kinds": [
-      "page"
-    ],
-    "routes": [
-      "/AIInsights",
-      "/ai-insights"
-    ],
-    "sourceProjects": [
-      "AIBailBondRiskAssessor"
-    ],
-    "consolidatedFromApps": [
-      "legal-compliance-risk/tenant-rights-advisor"
-    ],
-    "evidence": [
-      {
-        "kind": "page",
-        "sourceProject": "AIBailBondRiskAssessor",
-        "path": "client/src/App.js:111",
-        "route": "/ai-insights",
-        "originApp": "legal-compliance-risk/tenant-rights-advisor"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIBailBondRiskAssessor",
-        "path": "client/src/pages/AIInsights.js",
-        "route": "/AIInsights",
-        "originApp": "legal-compliance-risk/tenant-rights-advisor"
-      }
-    ]
-  },
-  {
-    "name": "AI Reports",
-    "canonicalKey": "ai report",
-    "aliases": [],
-    "kinds": [
-      "page"
-    ],
-    "routes": [
-      "/AIReports",
-      "/ai-reports"
-    ],
-    "sourceProjects": [
-      "AIEstatePlanningDigitalLegacy"
-    ],
-    "consolidatedFromApps": [
-      "legal-compliance-risk/tenant-rights-advisor"
-    ],
-    "evidence": [
-      {
-        "kind": "page",
-        "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "frontend/src/App.js:309",
-        "route": "/ai-reports",
-        "originApp": "legal-compliance-risk/tenant-rights-advisor"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "frontend/src/pages/AIReports.js",
-        "route": "/AIReports",
-        "originApp": "legal-compliance-risk/tenant-rights-advisor"
-      }
-    ]
-  },
-  {
     "name": "Account Consolidate",
     "canonicalKey": "account consolidate",
     "aliases": [],
@@ -121,7 +19,7 @@
       {
         "kind": "api",
         "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "backend/routes/extensions.js:241",
+        "path": "backend/routes/extensions.js:242",
         "route": "/ai/account-consolidate",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
@@ -147,7 +45,7 @@
       {
         "kind": "api",
         "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "backend/routes/extensions.js:317",
+        "path": "backend/routes/extensions.js:318",
         "route": "/beneficiary-portal/:id/activate",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
@@ -253,6 +151,108 @@
         "sourceProject": "AIEstatePlanningDigitalLegacy",
         "path": "backend/routes/aiNew2.js:49",
         "route": "/agentic-plan",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      }
+    ]
+  },
+  {
+    "name": "AI Advisor",
+    "canonicalKey": "advisor ai",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/AIAdvisor",
+      "/ai-advisor"
+    ],
+    "sourceProjects": [
+      "AIEstatePlanningDigitalLegacy"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/tenant-rights-advisor"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIEstatePlanningDigitalLegacy",
+        "path": "frontend/src/App.js:304",
+        "route": "/ai-advisor",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIEstatePlanningDigitalLegacy",
+        "path": "frontend/src/pages/AIAdvisor.js",
+        "route": "/AIAdvisor",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      }
+    ]
+  },
+  {
+    "name": "AI Insights",
+    "canonicalKey": "ai insight",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/AIInsights",
+      "/ai-insights"
+    ],
+    "sourceProjects": [
+      "AIBailBondRiskAssessor"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/tenant-rights-advisor"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIBailBondRiskAssessor",
+        "path": "client/src/App.js:111",
+        "route": "/ai-insights",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIBailBondRiskAssessor",
+        "path": "client/src/pages/AIInsights.js",
+        "route": "/AIInsights",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      }
+    ]
+  },
+  {
+    "name": "AI Reports",
+    "canonicalKey": "ai report",
+    "aliases": [],
+    "kinds": [
+      "page"
+    ],
+    "routes": [
+      "/AIReports",
+      "/ai-reports"
+    ],
+    "sourceProjects": [
+      "AIEstatePlanningDigitalLegacy"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/tenant-rights-advisor"
+    ],
+    "evidence": [
+      {
+        "kind": "page",
+        "sourceProject": "AIEstatePlanningDigitalLegacy",
+        "path": "frontend/src/App.js:309",
+        "route": "/ai-reports",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIEstatePlanningDigitalLegacy",
+        "path": "frontend/src/pages/AIReports.js",
+        "route": "/AIReports",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
     ]
@@ -432,7 +432,7 @@
       {
         "kind": "api",
         "sourceProject": "AIStrategicSourcingNegotiation",
-        "path": "backend/routes/ai.js:296",
+        "path": "backend/routes/ai.js:272",
         "route": "/assess-risk",
         "originApp": "legal-compliance-risk/contract-negotiation-assistant"
       }
@@ -574,20 +574,6 @@
       },
       {
         "kind": "page",
-        "sourceProject": "AIESGSustainabilityReporter",
-        "path": "frontend/src/App.js:64",
-        "route": "/batch03",
-        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIESGSustainabilityReporter",
-        "path": "frontend/src/pages/Batch03Features.js",
-        "route": "/Batch03Features",
-        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
-      },
-      {
-        "kind": "page",
         "sourceProject": "AIExportControlSanctionsScreener",
         "path": "client/src/App.js:142",
         "route": "/batch03",
@@ -599,6 +585,20 @@
         "path": "client/src/pages/Batch03Features.js",
         "route": "/Batch03Features",
         "originApp": "legal-compliance-risk/automatedatagovernance"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIESGSustainabilityReporter",
+        "path": "frontend/src/App.js:64",
+        "route": "/batch03",
+        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIESGSustainabilityReporter",
+        "path": "frontend/src/pages/Batch03Features.js",
+        "route": "/Batch03Features",
+        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
       },
       {
         "kind": "page",
@@ -768,7 +768,7 @@
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
-        "path": "backend/routes/ai.js:302",
+        "path": "backend/routes/ai.js:317",
         "route": "/case-outcome",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       },
@@ -784,6 +784,32 @@
         "sourceProject": "AITenantRightsAdvisor",
         "path": "frontend/src/pages/CaseOutcome.jsx",
         "route": "/CaseOutcome",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      }
+    ]
+  },
+  {
+    "name": "Case Readiness",
+    "canonicalKey": "case readiness",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/case-readiness"
+    ],
+    "sourceProjects": [
+      "AIBailBondRiskAssessor"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/tenant-rights-advisor"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIBailBondRiskAssessor",
+        "path": "server/routes/runtimeAi.js:9",
+        "route": "/case-readiness",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
     ]
@@ -894,7 +920,7 @@
   },
   {
     "name": "Cf Co Parenting Logistics Optimization",
-    "canonicalKey": "cf co logistics optimization parenting",
+    "canonicalKey": "cf co logistic optimization parenting",
     "aliases": [],
     "kinds": [
       "page"
@@ -946,7 +972,7 @@
   },
   {
     "name": "Cf Deadline Tracker With Notifications For Notice Response",
-    "canonicalKey": "cf deadline for notice notifications response tracker with",
+    "canonicalKey": "cf deadline for notice notification response tracker with",
     "aliases": [],
     "kinds": [
       "page"
@@ -972,7 +998,7 @@
   },
   {
     "name": "Cf Deadline Tracker With Notifications For Notice Response Windows",
-    "canonicalKey": "cf deadline for notice notifications response tracker window with",
+    "canonicalKey": "cf deadline for notice notification response tracker window with",
     "aliases": [],
     "kinds": [
       "page"
@@ -998,7 +1024,7 @@
   },
   {
     "name": "Cf Document Assembly Auto Filling Forms With Tenant",
-    "canonicalKey": "assembly auto cf document filling forms tenant with",
+    "canonicalKey": "assembly auto cf document filling form tenant with",
     "aliases": [],
     "kinds": [
       "page"
@@ -1024,7 +1050,7 @@
   },
   {
     "name": "Cf Document Assembly Auto Filling Forms With Tenant Data",
-    "canonicalKey": "assembly auto cf data document filling forms tenant with",
+    "canonicalKey": "assembly auto cf data document filling form tenant with",
     "aliases": [],
     "kinds": [
       "page"
@@ -1257,6 +1283,32 @@
     ]
   },
   {
+    "name": "Checklist",
+    "canonicalKey": "checklist",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/:id/checklist"
+    ],
+    "sourceProjects": [
+      "AIBailBondRiskAssessor"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/tenant-rights-advisor"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIBailBondRiskAssessor",
+        "path": "server/routes/governedCases.js:3",
+        "route": "/:id/checklist",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      }
+    ]
+  },
+  {
     "name": "Child Support",
     "canonicalKey": "child support",
     "aliases": [],
@@ -1310,7 +1362,7 @@
   },
   {
     "name": "Co Parenting Logistics Optimization",
-    "canonicalKey": "co logistics optimization parenting",
+    "canonicalKey": "co logistic optimization parenting",
     "aliases": [],
     "kinds": [
       "page"
@@ -1404,34 +1456,6 @@
       },
       {
         "kind": "page",
-        "sourceProject": "AIConsumerComplaintResolutionAgent",
-        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
-        "route": "/CodexCustomVizFeature",
-        "originApp": "legal-compliance-risk/public-records-search-agent"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIPublicRecordsSearchAgent",
-        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
-        "route": "/CodexCustomVizFeature",
-        "originApp": "legal-compliance-risk/public-records-search-agent"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AITrademarkBrandProtectionMonitor",
-        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
-        "route": "/CodexCustomVizFeature",
-        "originApp": "legal-compliance-risk/public-records-search-agent"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIeDiscoverySystem",
-        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
-        "route": "/CodexCustomVizFeature",
-        "originApp": "legal-compliance-risk/public-records-search-agent"
-      },
-      {
-        "kind": "page",
         "sourceProject": "AIDigitalcasemanager",
         "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
         "route": "/CodexCustomVizFeature",
@@ -1457,6 +1481,34 @@
         "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
         "route": "/CodexCustomVizFeature",
         "originApp": "legal-compliance-risk/immigration-case-manager"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIConsumerComplaintResolutionAgent",
+        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
+        "route": "/CodexCustomVizFeature",
+        "originApp": "legal-compliance-risk/public-records-search-agent"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIPublicRecordsSearchAgent",
+        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
+        "route": "/CodexCustomVizFeature",
+        "originApp": "legal-compliance-risk/public-records-search-agent"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AITrademarkBrandProtectionMonitor",
+        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
+        "route": "/CodexCustomVizFeature",
+        "originApp": "legal-compliance-risk/public-records-search-agent"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIeDiscoverySystem",
+        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
+        "route": "/CodexCustomVizFeature",
+        "originApp": "legal-compliance-risk/public-records-search-agent"
       },
       {
         "kind": "page",
@@ -1488,6 +1540,41 @@
       },
       {
         "kind": "page",
+        "sourceProject": "AIAutomatedatagovernance",
+        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
+        "route": "/CodexCustomVizFeature",
+        "originApp": "legal-compliance-risk/automatedatagovernance"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIExportControlSanctionsScreener",
+        "path": "client/src/pages/CodexCustomVizFeature.jsx",
+        "route": "/CodexCustomVizFeature",
+        "originApp": "legal-compliance-risk/automatedatagovernance"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIGovernanceModelOps",
+        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
+        "route": "/CodexCustomVizFeature",
+        "originApp": "legal-compliance-risk/automatedatagovernance"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIColdChainMonitoringCompliance",
+        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
+        "route": "/CodexCustomVizFeature",
+        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIESGSustainabilityReporter",
+        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
+        "route": "/CodexCustomVizFeature",
+        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
+      },
+      {
+        "kind": "page",
         "sourceProject": "AICannabisCultivationCompliance",
         "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
         "route": "/CodexCustomVizFeature",
@@ -1516,62 +1603,6 @@
       },
       {
         "kind": "page",
-        "sourceProject": "AIColdChainMonitoringCompliance",
-        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
-        "route": "/CodexCustomVizFeature",
-        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIESGSustainabilityReporter",
-        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
-        "route": "/CodexCustomVizFeature",
-        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIAutomatedatagovernance",
-        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
-        "route": "/CodexCustomVizFeature",
-        "originApp": "legal-compliance-risk/automatedatagovernance"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIExportControlSanctionsScreener",
-        "path": "client/src/pages/CodexCustomVizFeature.jsx",
-        "route": "/CodexCustomVizFeature",
-        "originApp": "legal-compliance-risk/automatedatagovernance"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIGovernanceModelOps",
-        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
-        "route": "/CodexCustomVizFeature",
-        "originApp": "legal-compliance-risk/automatedatagovernance"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIDueDiligenceAssistant",
-        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
-        "route": "/CodexCustomVizFeature",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
-        "route": "/CodexCustomVizFeature",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIProposalSOWGenerator",
-        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
-        "route": "/CodexCustomVizFeature",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
-      {
-        "kind": "page",
         "sourceProject": "AIContractLifecycleManager",
         "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
         "route": "/CodexCustomVizFeature",
@@ -1597,12 +1628,33 @@
         "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
         "route": "/CodexCustomVizFeature",
         "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
+        "route": "/CodexCustomVizFeature",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
+        "route": "/CodexCustomVizFeature",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIProposalSOWGenerator",
+        "path": "frontend/src/pages/CodexCustomVizFeature.jsx",
+        "route": "/CodexCustomVizFeature",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
       }
     ]
   },
   {
     "name": "Codex Operations Feature",
-    "canonicalKey": "codex operations",
+    "canonicalKey": "codex operation",
     "aliases": [],
     "kinds": [
       "page"
@@ -1670,34 +1722,6 @@
       },
       {
         "kind": "page",
-        "sourceProject": "AIConsumerComplaintResolutionAgent",
-        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
-        "route": "/CodexOperationsFeature",
-        "originApp": "legal-compliance-risk/public-records-search-agent"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIPublicRecordsSearchAgent",
-        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
-        "route": "/CodexOperationsFeature",
-        "originApp": "legal-compliance-risk/public-records-search-agent"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AITrademarkBrandProtectionMonitor",
-        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
-        "route": "/CodexOperationsFeature",
-        "originApp": "legal-compliance-risk/public-records-search-agent"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIeDiscoverySystem",
-        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
-        "route": "/CodexOperationsFeature",
-        "originApp": "legal-compliance-risk/public-records-search-agent"
-      },
-      {
-        "kind": "page",
         "sourceProject": "AIDigitalcasemanager",
         "path": "frontend/src/pages/CodexOperationsFeature.jsx",
         "route": "/CodexOperationsFeature",
@@ -1723,6 +1747,34 @@
         "path": "frontend/src/pages/CodexOperationsFeature.jsx",
         "route": "/CodexOperationsFeature",
         "originApp": "legal-compliance-risk/immigration-case-manager"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIConsumerComplaintResolutionAgent",
+        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
+        "route": "/CodexOperationsFeature",
+        "originApp": "legal-compliance-risk/public-records-search-agent"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIPublicRecordsSearchAgent",
+        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
+        "route": "/CodexOperationsFeature",
+        "originApp": "legal-compliance-risk/public-records-search-agent"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AITrademarkBrandProtectionMonitor",
+        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
+        "route": "/CodexOperationsFeature",
+        "originApp": "legal-compliance-risk/public-records-search-agent"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIeDiscoverySystem",
+        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
+        "route": "/CodexOperationsFeature",
+        "originApp": "legal-compliance-risk/public-records-search-agent"
       },
       {
         "kind": "page",
@@ -1754,6 +1806,41 @@
       },
       {
         "kind": "page",
+        "sourceProject": "AIAutomatedatagovernance",
+        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
+        "route": "/CodexOperationsFeature",
+        "originApp": "legal-compliance-risk/automatedatagovernance"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIExportControlSanctionsScreener",
+        "path": "client/src/pages/CodexOperationsFeature.jsx",
+        "route": "/CodexOperationsFeature",
+        "originApp": "legal-compliance-risk/automatedatagovernance"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIGovernanceModelOps",
+        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
+        "route": "/CodexOperationsFeature",
+        "originApp": "legal-compliance-risk/automatedatagovernance"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIColdChainMonitoringCompliance",
+        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
+        "route": "/CodexOperationsFeature",
+        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIESGSustainabilityReporter",
+        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
+        "route": "/CodexOperationsFeature",
+        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
+      },
+      {
+        "kind": "page",
         "sourceProject": "AICannabisCultivationCompliance",
         "path": "frontend/src/pages/CodexOperationsFeature.jsx",
         "route": "/CodexOperationsFeature",
@@ -1782,62 +1869,6 @@
       },
       {
         "kind": "page",
-        "sourceProject": "AIColdChainMonitoringCompliance",
-        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
-        "route": "/CodexOperationsFeature",
-        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIESGSustainabilityReporter",
-        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
-        "route": "/CodexOperationsFeature",
-        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIAutomatedatagovernance",
-        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
-        "route": "/CodexOperationsFeature",
-        "originApp": "legal-compliance-risk/automatedatagovernance"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIExportControlSanctionsScreener",
-        "path": "client/src/pages/CodexOperationsFeature.jsx",
-        "route": "/CodexOperationsFeature",
-        "originApp": "legal-compliance-risk/automatedatagovernance"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIGovernanceModelOps",
-        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
-        "route": "/CodexOperationsFeature",
-        "originApp": "legal-compliance-risk/automatedatagovernance"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIDueDiligenceAssistant",
-        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
-        "route": "/CodexOperationsFeature",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
-        "route": "/CodexOperationsFeature",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIProposalSOWGenerator",
-        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
-        "route": "/CodexOperationsFeature",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
-      {
-        "kind": "page",
         "sourceProject": "AIContractLifecycleManager",
         "path": "frontend/src/pages/CodexOperationsFeature.jsx",
         "route": "/CodexOperationsFeature",
@@ -1863,6 +1894,27 @@
         "path": "frontend/src/pages/CodexOperationsFeature.jsx",
         "route": "/CodexOperationsFeature",
         "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
+        "route": "/CodexOperationsFeature",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
+        "route": "/CodexOperationsFeature",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIProposalSOWGenerator",
+        "path": "frontend/src/pages/CodexOperationsFeature.jsx",
+        "route": "/CodexOperationsFeature",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
       }
     ]
   },
@@ -1966,28 +2018,15 @@
       "AIBailBondRiskAssessor",
       "AICannabisCultivationCompliance",
       "AIColdChainMonitoringCompliance",
-      "AIExportControlSanctionsScreener",
-      "AIMandADealRoom",
-      "AIRefugeeAsylumCaseManager",
-      "AIStrategicSourcingNegotiation"
+      "AIExportControlSanctionsScreener"
     ],
     "consolidatedFromApps": [
       "legal-compliance-risk/automatedatagovernance",
-      "legal-compliance-risk/contract-negotiation-assistant",
-      "legal-compliance-risk/due-diligence-assistant",
       "legal-compliance-risk/gdpr-data-mapping-privacy-manager",
-      "legal-compliance-risk/immigration-case-manager",
       "legal-compliance-risk/regulatory-compliance",
       "legal-compliance-risk/tenant-rights-advisor"
     ],
     "evidence": [
-      {
-        "kind": "api",
-        "sourceProject": "AIRefugeeAsylumCaseManager",
-        "path": "backend/services/ai.js:66",
-        "route": "/api/v1/chat/completions",
-        "originApp": "legal-compliance-risk/immigration-case-manager"
-      },
       {
         "kind": "api",
         "sourceProject": "AIBailBondRiskAssessor",
@@ -2025,31 +2064,10 @@
       },
       {
         "kind": "api",
-        "sourceProject": "AICannabisCultivationCompliance",
-        "path": "backend/src/routes/iotAnomalyDetector.js:37",
+        "sourceProject": "AIExportControlSanctionsScreener",
+        "path": "server/services/openrouter.js:20",
         "route": "/api/v1/chat/completions",
-        "originApp": "legal-compliance-risk/regulatory-compliance"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AICannabisCultivationCompliance",
-        "path": "backend/src/routes/licenseConsultantSaas.js:37",
-        "route": "/api/v1/chat/completions",
-        "originApp": "legal-compliance-risk/regulatory-compliance"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AICannabisCultivationCompliance",
-        "path": "backend/src/routes/metrcAgent.js:37",
-        "route": "/api/v1/chat/completions",
-        "originApp": "legal-compliance-risk/regulatory-compliance"
-      },
-      {
-        "kind": "api",
-        "sourceProject": "AICannabisCultivationCompliance",
-        "path": "backend/src/routes/stateRegulationsRag.js:37",
-        "route": "/api/v1/chat/completions",
-        "originApp": "legal-compliance-risk/regulatory-compliance"
+        "originApp": "legal-compliance-risk/automatedatagovernance"
       },
       {
         "kind": "api",
@@ -2081,24 +2099,31 @@
       },
       {
         "kind": "api",
-        "sourceProject": "AIExportControlSanctionsScreener",
-        "path": "server/services/openrouter.js:20",
+        "sourceProject": "AICannabisCultivationCompliance",
+        "path": "backend/src/routes/iotAnomalyDetector.js:37",
         "route": "/api/v1/chat/completions",
-        "originApp": "legal-compliance-risk/automatedatagovernance"
+        "originApp": "legal-compliance-risk/regulatory-compliance"
       },
       {
         "kind": "api",
-        "sourceProject": "AIMandADealRoom",
-        "path": "backend/services/ai.js:65",
+        "sourceProject": "AICannabisCultivationCompliance",
+        "path": "backend/src/routes/licenseConsultantSaas.js:37",
         "route": "/api/v1/chat/completions",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
+        "originApp": "legal-compliance-risk/regulatory-compliance"
       },
       {
         "kind": "api",
-        "sourceProject": "AIStrategicSourcingNegotiation",
-        "path": "backend/routes/ai.js:51",
+        "sourceProject": "AICannabisCultivationCompliance",
+        "path": "backend/src/routes/metrcAgent.js:37",
         "route": "/api/v1/chat/completions",
-        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+        "originApp": "legal-compliance-risk/regulatory-compliance"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AICannabisCultivationCompliance",
+        "path": "backend/src/routes/stateRegulationsRag.js:37",
+        "route": "/api/v1/chat/completions",
+        "originApp": "legal-compliance-risk/regulatory-compliance"
       }
     ]
   },
@@ -2164,10 +2189,10 @@
     ]
   },
   {
-    "name": "Conversations",
+    "name": "Conversations Page",
     "canonicalKey": "conversation",
     "aliases": [
-      "Conversations Page"
+      "Conversations"
     ],
     "kinds": [
       "api",
@@ -2194,18 +2219,18 @@
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       },
       {
-        "kind": "api",
-        "sourceProject": "AIContractLifecycleManager",
-        "path": "backend/routes/ai.js:166",
-        "route": "/conversations",
-        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
-      },
-      {
         "kind": "page",
         "sourceProject": "AIDivorceFamilyLawNavigator",
         "path": "client/src/pages/ConversationsPage.jsx",
         "route": "/ConversationsPage",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIContractLifecycleManager",
+        "path": "backend/routes/ai.js:166",
+        "route": "/conversations",
+        "originApp": "legal-compliance-risk/contract-negotiation-assistant"
       }
     ]
   },
@@ -2379,17 +2404,17 @@
       },
       {
         "kind": "page",
-        "sourceProject": "AIESGSustainabilityReporter",
-        "path": "frontend/src/pages/CrudPage.js",
-        "route": "/CrudPage",
-        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
-      },
-      {
-        "kind": "page",
         "sourceProject": "AIExportControlSanctionsScreener",
         "path": "client/src/pages/CrudPage.js",
         "route": "/CrudPage",
         "originApp": "legal-compliance-risk/automatedatagovernance"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIESGSustainabilityReporter",
+        "path": "frontend/src/pages/CrudPage.js",
+        "route": "/CrudPage",
+        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
       }
     ]
   },
@@ -2398,15 +2423,19 @@
     "canonicalKey": "custody",
     "aliases": [],
     "kinds": [
+      "api",
       "page"
     ],
     "routes": [
+      "/lots/:id/custody",
       "custody"
     ],
     "sourceProjects": [
+      "AIColdChainMonitoringCompliance",
       "AIDivorceFamilyLawNavigator"
     ],
     "consolidatedFromApps": [
+      "legal-compliance-risk/gdpr-data-mapping-privacy-manager",
       "legal-compliance-risk/tenant-rights-advisor"
     ],
     "evidence": [
@@ -2416,6 +2445,13 @@
         "path": "client/src/App.jsx:35",
         "route": "custody",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIColdChainMonitoringCompliance",
+        "path": "backend/routes/lotWorkflow.js:29",
+        "route": "/lots/:id/custody",
+        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
       }
     ]
   },
@@ -2511,8 +2547,7 @@
       "AITrademarkBrandProtectionMonitor",
       "AIeDiscoverySystem",
       "AiRegulatoryCompliance",
-      "ai_regulatory_compliance",
-      "smallLawFirm"
+      "ai_regulatory_compliance"
     ],
     "consolidatedFromApps": [
       "legal-compliance-risk/automatedatagovernance",
@@ -2539,41 +2574,6 @@
         "path": "frontend/src/App.jsx:69",
         "route": "/codex/custom-viz",
         "originApp": "legal-compliance-risk/firmflow-ai-merged"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "smallLawFirm",
-        "path": "src/app/codex/custom-viz/page.tsx",
-        "route": "/codex/custom-viz",
-        "originApp": "legal-compliance-risk/firmflow-ai-merged"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIConsumerComplaintResolutionAgent",
-        "path": "frontend/src/App.jsx:88",
-        "route": "/codex/custom-viz",
-        "originApp": "legal-compliance-risk/public-records-search-agent"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIPublicRecordsSearchAgent",
-        "path": "frontend/src/App.js:84",
-        "route": "/codex/custom-viz",
-        "originApp": "legal-compliance-risk/public-records-search-agent"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AITrademarkBrandProtectionMonitor",
-        "path": "frontend/src/App.jsx:57",
-        "route": "/codex/custom-viz",
-        "originApp": "legal-compliance-risk/public-records-search-agent"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIeDiscoverySystem",
-        "path": "frontend/src/App.jsx:40",
-        "route": "/codex/custom-viz",
-        "originApp": "legal-compliance-risk/public-records-search-agent"
       },
       {
         "kind": "page",
@@ -2605,6 +2605,34 @@
       },
       {
         "kind": "page",
+        "sourceProject": "AIConsumerComplaintResolutionAgent",
+        "path": "frontend/src/App.jsx:78",
+        "route": "/codex/custom-viz",
+        "originApp": "legal-compliance-risk/public-records-search-agent"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIPublicRecordsSearchAgent",
+        "path": "frontend/src/App.js:84",
+        "route": "/codex/custom-viz",
+        "originApp": "legal-compliance-risk/public-records-search-agent"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AITrademarkBrandProtectionMonitor",
+        "path": "frontend/src/App.jsx:57",
+        "route": "/codex/custom-viz",
+        "originApp": "legal-compliance-risk/public-records-search-agent"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIeDiscoverySystem",
+        "path": "frontend/src/App.jsx:40",
+        "route": "/codex/custom-viz",
+        "originApp": "legal-compliance-risk/public-records-search-agent"
+      },
+      {
+        "kind": "page",
         "sourceProject": "AIBailBondRiskAssessor",
         "path": "client/src/App.js:103",
         "route": "/codex/custom-viz",
@@ -2633,6 +2661,41 @@
       },
       {
         "kind": "page",
+        "sourceProject": "AIAutomatedatagovernance",
+        "path": "frontend/src/App.jsx:424",
+        "route": "/codex/custom-viz",
+        "originApp": "legal-compliance-risk/automatedatagovernance"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIExportControlSanctionsScreener",
+        "path": "client/src/App.js:139",
+        "route": "/codex/custom-viz",
+        "originApp": "legal-compliance-risk/automatedatagovernance"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIGovernanceModelOps",
+        "path": "frontend/src/App.js:83",
+        "route": "/codex/custom-viz",
+        "originApp": "legal-compliance-risk/automatedatagovernance"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIColdChainMonitoringCompliance",
+        "path": "frontend/src/App.jsx:46",
+        "route": "/codex/custom-viz",
+        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIESGSustainabilityReporter",
+        "path": "frontend/src/App.js:61",
+        "route": "/codex/custom-viz",
+        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
+      },
+      {
+        "kind": "page",
         "sourceProject": "AICannabisCultivationCompliance",
         "path": "frontend/src/App.jsx:70",
         "route": "/codex/custom-viz",
@@ -2655,65 +2718,9 @@
       {
         "kind": "page",
         "sourceProject": "ai_regulatory_compliance",
-        "path": "frontend/src/App.tsx:40",
+        "path": "frontend/src/App.tsx:47",
         "route": "/codex/custom-viz",
         "originApp": "legal-compliance-risk/regulatory-compliance"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIColdChainMonitoringCompliance",
-        "path": "frontend/src/App.jsx:46",
-        "route": "/codex/custom-viz",
-        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIESGSustainabilityReporter",
-        "path": "frontend/src/App.js:61",
-        "route": "/codex/custom-viz",
-        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIAutomatedatagovernance",
-        "path": "frontend/src/App.js:424",
-        "route": "/codex/custom-viz",
-        "originApp": "legal-compliance-risk/automatedatagovernance"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIExportControlSanctionsScreener",
-        "path": "client/src/App.js:139",
-        "route": "/codex/custom-viz",
-        "originApp": "legal-compliance-risk/automatedatagovernance"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIGovernanceModelOps",
-        "path": "frontend/src/App.js:83",
-        "route": "/codex/custom-viz",
-        "originApp": "legal-compliance-risk/automatedatagovernance"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIDueDiligenceAssistant",
-        "path": "frontend/src/App.js:73",
-        "route": "/codex/custom-viz",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/App.js:99",
-        "route": "/codex/custom-viz",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIProposalSOWGenerator",
-        "path": "frontend/src/App.js:4580",
-        "route": "/codex/custom-viz",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
       },
       {
         "kind": "page",
@@ -2742,6 +2749,27 @@
         "path": "frontend/src/App.js:104",
         "route": "/codex/custom-viz",
         "originApp": "legal-compliance-risk/contract-negotiation-assistant"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "frontend/src/App.js:73",
+        "route": "/codex/custom-viz",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIMandADealRoom",
+        "path": "frontend/src/App.js:99",
+        "route": "/codex/custom-viz",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIProposalSOWGenerator",
+        "path": "frontend/src/App.js:4580",
+        "route": "/codex/custom-viz",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
       }
     ]
   },
@@ -2850,6 +2878,32 @@
     ]
   },
   {
+    "name": "Disputes",
+    "canonicalKey": "dispute",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/:id/disputes"
+    ],
+    "sourceProjects": [
+      "AIBailBondRiskAssessor"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/tenant-rights-advisor"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIBailBondRiskAssessor",
+        "path": "server/routes/governedCases.js:5",
+        "route": "/:id/disputes",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      }
+    ]
+  },
+  {
     "name": "Document Assembly",
     "canonicalKey": "assembly document",
     "aliases": [],
@@ -2871,7 +2925,7 @@
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
-        "path": "backend/routes/ai.js:424",
+        "path": "backend/routes/ai.js:439",
         "route": "/document-assembly",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       },
@@ -2989,7 +3043,7 @@
       {
         "kind": "api",
         "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "backend/server.js:194",
+        "path": "backend/server.js:182",
         "route": "/api/notifications/due",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
@@ -3093,7 +3147,7 @@
       {
         "kind": "api",
         "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "backend/server.js:86",
+        "path": "backend/server.js:74",
         "route": "/api/estate-health-score",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
@@ -3200,7 +3254,7 @@
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
-        "path": "backend/routes/ai.js:145",
+        "path": "backend/routes/ai.js:160",
         "route": "/eviction-defense",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       },
@@ -3315,6 +3369,32 @@
     ]
   },
   {
+    "name": "Fact Key",
+    "canonicalKey": "fact key",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/workspaces/:workspaceId/matters/:matterId/facts/:factKey"
+    ],
+    "sourceProjects": [
+      "AIDivorceFamilyLawNavigator"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/tenant-rights-advisor"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "server/routes/navigationWorkflow.js:97",
+        "route": "/workspaces/:workspaceId/matters/:matterId/facts/:factKey",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      }
+    ]
+  },
+  {
     "name": "Family Meeting Agenda",
     "canonicalKey": "agenda family meeting",
     "aliases": [],
@@ -3334,7 +3414,7 @@
       {
         "kind": "api",
         "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "backend/routes/extensions.js:292",
+        "path": "backend/routes/extensions.js:293",
         "route": "/ai/family-meeting-agenda",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
@@ -3360,14 +3440,14 @@
       {
         "kind": "api",
         "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "backend/routes/extensions.js:262",
+        "path": "backend/routes/extensions.js:263",
         "route": "/family-meetings",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       },
       {
         "kind": "api",
         "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "backend/routes/extensions.js:282",
+        "path": "backend/routes/extensions.js:283",
         "route": "/family-meetings",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
@@ -3408,17 +3488,17 @@
       },
       {
         "kind": "page",
-        "sourceProject": "AIPublicRecordsSearchAgent",
-        "path": "frontend/src/pages/FeaturePage.js",
-        "route": "/FeaturePage",
-        "originApp": "legal-compliance-risk/public-records-search-agent"
-      },
-      {
-        "kind": "page",
         "sourceProject": "AIPatentResearchFiling",
         "path": "client/src/pages/FeaturePage.jsx",
         "route": "/FeaturePage",
         "originApp": "legal-compliance-risk/immigration-case-manager"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIPublicRecordsSearchAgent",
+        "path": "frontend/src/pages/FeaturePage.js",
+        "route": "/FeaturePage",
+        "originApp": "legal-compliance-risk/public-records-search-agent"
       },
       {
         "kind": "page",
@@ -3575,7 +3655,7 @@
   },
   {
     "name": "Gap Limited Integration With Court Records Filing Systems",
-    "canonicalKey": "court filing gap integration limited records with",
+    "canonicalKey": "court filing gap integration limited record with",
     "aliases": [],
     "kinds": [
       "page"
@@ -3652,6 +3732,32 @@
     ]
   },
   {
+    "name": "Gap No Account Consolidation Recommender",
+    "canonicalKey": "account consolidation gap no recommender",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/gap-no-account-consolidation-recommender"
+    ],
+    "sourceProjects": [
+      "AIEstatePlanningDigitalLegacy"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/tenant-rights-advisor"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIEstatePlanningDigitalLegacy",
+        "path": "backend/routes/batch03Gaps.js:67",
+        "route": "/gap-no-account-consolidation-recommender",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      }
+    ]
+  },
+  {
     "name": "Gap No AI Driven Case Outcome Prediction",
     "canonicalKey": "ai case driven gap no outcome prediction",
     "aliases": [],
@@ -3681,32 +3787,6 @@
         "sourceProject": "AITenantRightsAdvisor",
         "path": "frontend/src/pages/GapNoAiDrivenCaseOutcomePrediction.jsx",
         "route": "/GapNoAiDrivenCaseOutcomePrediction",
-        "originApp": "legal-compliance-risk/tenant-rights-advisor"
-      }
-    ]
-  },
-  {
-    "name": "Gap No Account Consolidation Recommender",
-    "canonicalKey": "account consolidation gap no recommender",
-    "aliases": [],
-    "kinds": [
-      "api"
-    ],
-    "routes": [
-      "/gap-no-account-consolidation-recommender"
-    ],
-    "sourceProjects": [
-      "AIEstatePlanningDigitalLegacy"
-    ],
-    "consolidatedFromApps": [
-      "legal-compliance-risk/tenant-rights-advisor"
-    ],
-    "evidence": [
-      {
-        "kind": "api",
-        "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "backend/routes/batch03Gaps.js:67",
-        "route": "/gap-no-account-consolidation-recommender",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
     ]
@@ -3849,7 +3929,7 @@
   },
   {
     "name": "Gap No Conversational Tenant Rights Chatbot Beyond Core",
-    "canonicalKey": "beyond chatbot conversational core gap no rights tenant",
+    "canonicalKey": "beyond chatbot conversational core gap no right tenant",
     "aliases": [],
     "kinds": [
       "page"
@@ -3875,7 +3955,7 @@
   },
   {
     "name": "Gap No Conversational Tenant Rights Chatbot Beyond Core AI Endpoints",
-    "canonicalKey": "ai beyond chatbot conversational core endpoint gap no rights tenant",
+    "canonicalKey": "ai beyond chatbot conversational core endpoint gap no right tenant",
     "aliases": [],
     "kinds": [
       "page"
@@ -3901,7 +3981,7 @@
   },
   {
     "name": "Gap No Form Completion Helpers Interactive Interview",
-    "canonicalKey": "completion form gap helpers interactive interview no",
+    "canonicalKey": "completion form gap helper interactive interview no",
     "aliases": [],
     "kinds": [
       "page"
@@ -3935,7 +4015,7 @@
   },
   {
     "name": "Gap No Integration With Local Statutes Rent Control",
-    "canonicalKey": "control gap integration local no rent statutes with",
+    "canonicalKey": "control gap integration local no rent statute with",
     "aliases": [],
     "kinds": [
       "page"
@@ -3961,7 +4041,7 @@
   },
   {
     "name": "Gap No Integration With Local Statutes Rent Control Habitability",
-    "canonicalKey": "control gap habitability integration local no rent statutes with",
+    "canonicalKey": "control gap habitability integration local no rent statute with",
     "aliases": [],
     "kinds": [
       "page"
@@ -3987,7 +4067,7 @@
   },
   {
     "name": "Gap No Integrations Module",
-    "canonicalKey": "gap integrations no",
+    "canonicalKey": "gap integration no",
     "aliases": [],
     "kinds": [
       "page"
@@ -4167,7 +4247,7 @@
   },
   {
     "name": "Gap No Notifications Or Reminders For Deadlines E",
-    "canonicalKey": "deadlines e for gap no notifications or reminders",
+    "canonicalKey": "deadline e for gap no notification or reminder",
     "aliases": [],
     "kinds": [
       "page"
@@ -4193,7 +4273,7 @@
   },
   {
     "name": "Gap No Notifications Or Reminders For Deadlines E G",
-    "canonicalKey": "deadlines e for g gap no notifications or reminders",
+    "canonicalKey": "deadline e for g gap no notification or reminder",
     "aliases": [],
     "kinds": [
       "page"
@@ -4404,7 +4484,7 @@
   },
   {
     "name": "Gap No Webhooks No Advisor System Push",
-    "canonicalKey": "advisor gap no push webhooks",
+    "canonicalKey": "advisor gap no push webhook",
     "aliases": [],
     "kinds": [
       "api"
@@ -4595,7 +4675,7 @@
   },
   {
     "name": "Historical Case Rag Over Precedents And Comparable Page",
-    "canonicalKey": "and case comparable historical over precedents rag",
+    "canonicalKey": "and case comparable historical over precedent rag",
     "aliases": [],
     "kinds": [
       "page"
@@ -4682,34 +4762,8 @@
     ]
   },
   {
-    "name": "Integrations Page",
-    "canonicalKey": "integrations",
-    "aliases": [],
-    "kinds": [
-      "page"
-    ],
-    "routes": [
-      "/IntegrationsPage"
-    ],
-    "sourceProjects": [
-      "AIBailBondRiskAssessor"
-    ],
-    "consolidatedFromApps": [
-      "legal-compliance-risk/tenant-rights-advisor"
-    ],
-    "evidence": [
-      {
-        "kind": "page",
-        "sourceProject": "AIBailBondRiskAssessor",
-        "path": "client/src/pages/IntegrationsPage.js",
-        "route": "/IntegrationsPage",
-        "originApp": "legal-compliance-risk/tenant-rights-advisor"
-      }
-    ]
-  },
-  {
     "name": "Integrations With Pacer Ncic And Probation Systems Page",
-    "canonicalKey": "and integrations ncic pacer probation systems with",
+    "canonicalKey": "and integration ncic pacer probation system with",
     "aliases": [],
     "kinds": [
       "page"
@@ -4753,7 +4807,7 @@
       {
         "kind": "api",
         "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "backend/routes/extensions.js:360",
+        "path": "backend/routes/extensions.js:361",
         "route": "/ai/intl-treaty-summary",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
@@ -4782,14 +4836,14 @@
       {
         "kind": "api",
         "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "backend/routes/extensions.js:305",
+        "path": "backend/routes/extensions.js:306",
         "route": "/beneficiary-portal/invite",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       },
       {
         "kind": "api",
         "sourceProject": "AIESGSustainabilityReporter",
-        "path": "backend/routes/aiExtensions.js:246",
+        "path": "backend/routes/aiExtensions.js:247",
         "route": "/stakeholder-portal/invite",
         "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
       }
@@ -4909,7 +4963,7 @@
       {
         "kind": "api",
         "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "backend/routes/extensions.js:173",
+        "path": "backend/routes/extensions.js:174",
         "route": "/legal/jurisdiction-info",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
@@ -4989,7 +5043,7 @@
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
-        "path": "backend/routes/ai.js:540",
+        "path": "backend/routes/ai.js:555",
         "route": "/legal-expert-chat",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       },
@@ -5057,7 +5111,7 @@
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
-        "path": "backend/routes/ai.js:516",
+        "path": "backend/routes/ai.js:531",
         "route": "/legal-resource-directory",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       },
@@ -5079,7 +5133,7 @@
   },
   {
     "name": "Limited Integration With Court Records Filing Systems",
-    "canonicalKey": "court filing integration limited records with",
+    "canonicalKey": "court filing integration limited record with",
     "aliases": [],
     "kinds": [
       "page"
@@ -5151,7 +5205,7 @@
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
-        "path": "backend/routes/ai.js:345",
+        "path": "backend/routes/ai.js:360",
         "route": "/local-law-lookup",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       },
@@ -5201,7 +5255,7 @@
       {
         "kind": "api",
         "sourceProject": "AIPermitZoningCompliance",
-        "path": "backend/routes/integrations.js:49",
+        "path": "backend/routes/integrations.js:23",
         "route": "/title-deed/lookup",
         "originApp": "legal-compliance-risk/regulatory-compliance"
       }
@@ -5227,7 +5281,7 @@
       {
         "kind": "api",
         "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "backend/routes/extensions.js:231",
+        "path": "backend/routes/extensions.js:232",
         "route": "/ai/ltc-advisory",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
@@ -5290,7 +5344,7 @@
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
-        "path": "backend/routes/ai.js:248",
+        "path": "backend/routes/ai.js:263",
         "route": "/mediation-prep",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       },
@@ -5300,6 +5354,41 @@
         "path": "frontend/src/pages/MediationPrep.jsx",
         "route": "/MediationPrep",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      }
+    ]
+  },
+  {
+    "name": "Members",
+    "canonicalKey": "member",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/workspaces/:workspaceId/members"
+    ],
+    "sourceProjects": [
+      "AIDivorceFamilyLawNavigator",
+      "AIDueDiligenceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant",
+      "legal-compliance-risk/tenant-rights-advisor"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "server/routes/navigationWorkflow.js:45",
+        "route": "/workspaces/:workspaceId/members",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/routes/governedDiligence.js:13",
+        "route": "/workspaces/:workspaceId/members",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
       }
     ]
   },
@@ -5453,7 +5542,7 @@
       {
         "kind": "api",
         "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "backend/routes/extensions.js:190",
+        "path": "backend/routes/extensions.js:191",
         "route": "/ai/multistate-summary",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
@@ -5483,7 +5572,7 @@
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
-        "path": "backend/routes/ai.js:383",
+        "path": "backend/routes/ai.js:398",
         "route": "/negotiation-simulator",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       },
@@ -5512,7 +5601,7 @@
   },
   {
     "name": "No AI Driven Bond Pricing Despite Financial Analys Page",
-    "canonicalKey": "ai analys bond despite driven financial no pricing",
+    "canonicalKey": "ai analy bond despite driven financial no pricing",
     "aliases": [],
     "kinds": [
       "page"
@@ -5538,7 +5627,7 @@
   },
   {
     "name": "No Anomaly Detection On Check In Curfew Violations Page",
-    "canonicalKey": "anomaly check curfew detection in no on violations",
+    "canonicalKey": "anomaly check curfew detection in no on violation",
     "aliases": [],
     "kinds": [
       "page"
@@ -5668,7 +5757,7 @@
   },
   {
     "name": "No E Signature Workflow For Bond Contracts Page",
-    "canonicalKey": "bond contracts e for no signature workflow",
+    "canonicalKey": "bond contract e for no signature workflow",
     "aliases": [],
     "kinds": [
       "page"
@@ -5720,7 +5809,7 @@
   },
   {
     "name": "No Nlp Intake Of Police Reports Arrest Records Page",
-    "canonicalKey": "arrest intake nlp no of police records reports",
+    "canonicalKey": "arrest intake nlp no of police record report",
     "aliases": [],
     "kinds": [
       "page"
@@ -5772,7 +5861,7 @@
   },
   {
     "name": "No Payment Processing For Premiums And Collateral Page",
-    "canonicalKey": "and collateral for no payment premiums processing",
+    "canonicalKey": "and collateral for no payment premium processing",
     "aliases": [],
     "kinds": [
       "page"
@@ -5850,7 +5939,7 @@
   },
   {
     "name": "No Sms Voice Reminder Delivery Notifications Modul Page",
-    "canonicalKey": "delivery modul no notifications reminder sms voice",
+    "canonicalKey": "delivery modul no notification reminder sms voice",
     "aliases": [],
     "kinds": [
       "page"
@@ -5876,7 +5965,7 @@
   },
   {
     "name": "No Vision Document Ocr For Booking Sheets Page",
-    "canonicalKey": "booking document for no ocr sheets vision",
+    "canonicalKey": "booking document for no ocr sheet vision",
     "aliases": [],
     "kinds": [
       "page"
@@ -5992,7 +6081,7 @@
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
-        "path": "backend/routes/ai.js:92",
+        "path": "backend/routes/ai.js:107",
         "route": "/notice-generator",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       },
@@ -6001,6 +6090,32 @@
         "sourceProject": "AITenantRightsAdvisor",
         "path": "frontend/src/pages/NoticeGenerator.jsx",
         "route": "/NoticeGenerator",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      }
+    ]
+  },
+  {
+    "name": "Options",
+    "canonicalKey": "option",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/workspaces/:workspaceId/matters/:matterId/options"
+    ],
+    "sourceProjects": [
+      "AIDivorceFamilyLawNavigator"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/tenant-rights-advisor"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "server/routes/navigationWorkflow.js:134",
+        "route": "/workspaces/:workspaceId/matters/:matterId/options",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
     ]
@@ -6364,7 +6479,7 @@
       {
         "kind": "api",
         "sourceProject": "AIPublicRecordsSearchAgent",
-        "path": "backend/routes/ai.js:125",
+        "path": "backend/routes/ai.js:122",
         "route": "/analyze/property",
         "originApp": "legal-compliance-risk/public-records-search-agent"
       },
@@ -6414,7 +6529,7 @@
       {
         "kind": "api",
         "sourceProject": "AIGDPRDataMappingPrivacyManager",
-        "path": "backend/server.js:574",
+        "path": "backend/server.js:575",
         "route": "/api/policy-corpus/query",
         "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
       }
@@ -6422,7 +6537,7 @@
   },
   {
     "name": "Real Time Risk Event Streaming New Arrests Travel Page",
-    "canonicalKey": "arrests event real risk streaming time travel",
+    "canonicalKey": "arrest event real risk streaming time travel",
     "aliases": [],
     "kinds": [
       "page"
@@ -6579,7 +6694,7 @@
       {
         "kind": "api",
         "sourceProject": "AITenantRightsAdvisor",
-        "path": "backend/routes/ai.js:194",
+        "path": "backend/routes/ai.js:209",
         "route": "/rent-increase-check",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       },
@@ -6589,41 +6704,6 @@
         "path": "frontend/src/pages/RentIncreaseCheck.jsx",
         "route": "/RentIncreaseCheck",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
-      }
-    ]
-  },
-  {
-    "name": "Reports Page",
-    "canonicalKey": "reports",
-    "aliases": [],
-    "kinds": [
-      "page"
-    ],
-    "routes": [
-      "/ReportsPage"
-    ],
-    "sourceProjects": [
-      "AIBailBondRiskAssessor",
-      "AIColdChainMonitoringCompliance"
-    ],
-    "consolidatedFromApps": [
-      "legal-compliance-risk/gdpr-data-mapping-privacy-manager",
-      "legal-compliance-risk/tenant-rights-advisor"
-    ],
-    "evidence": [
-      {
-        "kind": "page",
-        "sourceProject": "AIBailBondRiskAssessor",
-        "path": "client/src/pages/ReportsPage.js",
-        "route": "/ReportsPage",
-        "originApp": "legal-compliance-risk/tenant-rights-advisor"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIColdChainMonitoringCompliance",
-        "path": "frontend/src/pages/ReportsPage.jsx",
-        "route": "/ReportsPage",
-        "originApp": "legal-compliance-risk/gdpr-data-mapping-privacy-manager"
       }
     ]
   },
@@ -6706,6 +6786,32 @@
     ]
   },
   {
+    "name": "Rules",
+    "canonicalKey": "rule",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/workspaces/:workspaceId/rules"
+    ],
+    "sourceProjects": [
+      "AIDivorceFamilyLawNavigator"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/tenant-rights-advisor"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "server/routes/navigationWorkflow.js:69",
+        "route": "/workspaces/:workspaceId/rules",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      }
+    ]
+  },
+  {
     "name": "Schedule",
     "canonicalKey": "schedule",
     "aliases": [],
@@ -6751,44 +6857,6 @@
         "sourceProject": "AIEstatePlanningDigitalLegacy",
         "path": "backend/models/schema.js",
         "route": "",
-        "originApp": "legal-compliance-risk/tenant-rights-advisor"
-      }
-    ]
-  },
-  {
-    "name": "Settings Page",
-    "canonicalKey": "settings",
-    "aliases": [
-      "Settings View"
-    ],
-    "kinds": [
-      "page"
-    ],
-    "routes": [
-      "/Main/SettingsView",
-      "/SettingsPage"
-    ],
-    "sourceProjects": [
-      "AIBailBondRiskAssessor",
-      "legalForms"
-    ],
-    "consolidatedFromApps": [
-      "legal-compliance-risk/firmflow-ai-merged",
-      "legal-compliance-risk/tenant-rights-advisor"
-    ],
-    "evidence": [
-      {
-        "kind": "page",
-        "sourceProject": "legalForms",
-        "path": "ios/LegalPracticeAI/Views/Main/SettingsView.swift",
-        "route": "/Main/SettingsView",
-        "originApp": "legal-compliance-risk/firmflow-ai-merged"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIBailBondRiskAssessor",
-        "path": "client/src/pages/SettingsPage.js",
-        "route": "/SettingsPage",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
     ]
@@ -7332,16 +7400,30 @@
       {
         "kind": "api",
         "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "backend/routes/extensions.js:137",
+        "path": "backend/routes/extensions.js:138",
         "route": "/vault/upload",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
       },
       {
         "kind": "api",
         "sourceProject": "AIEstatePlanningDigitalLegacy",
-        "path": "backend/server.js:159",
+        "path": "backend/server.js:147",
         "route": "/api/documents/upload",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "page",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "client/src/pages/UploadsPage.jsx",
+        "route": "/UploadsPage",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIGovernanceModelOps",
+        "path": "backend/routes/attachments.js:52",
+        "route": "/upload",
+        "originApp": "legal-compliance-risk/automatedatagovernance"
       },
       {
         "kind": "api",
@@ -7359,13 +7441,6 @@
       },
       {
         "kind": "api",
-        "sourceProject": "AIGovernanceModelOps",
-        "path": "backend/routes/attachments.js:52",
-        "route": "/upload",
-        "originApp": "legal-compliance-risk/automatedatagovernance"
-      },
-      {
-        "kind": "api",
         "sourceProject": "AIContractNegotiationAssistant",
         "path": "backend/src/routes/documents.js:56",
         "route": "/upload",
@@ -7377,13 +7452,6 @@
         "path": "backend/routes/rfp.js:69",
         "route": "/:id/upload",
         "originApp": "legal-compliance-risk/contract-negotiation-assistant"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIDivorceFamilyLawNavigator",
-        "path": "client/src/pages/UploadsPage.jsx",
-        "route": "/UploadsPage",
-        "originApp": "legal-compliance-risk/tenant-rights-advisor"
       }
     ]
   },
@@ -7436,59 +7504,6 @@
         "path": "server/routes/aiNew.js:932",
         "route": "/warrant-risk-assessment",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
-      }
-    ]
-  },
-  {
-    "name": "Webhooks Page",
-    "canonicalKey": "webhooks",
-    "aliases": [],
-    "kinds": [
-      "page"
-    ],
-    "routes": [
-      "/WebhooksPage"
-    ],
-    "sourceProjects": [
-      "AIBailBondRiskAssessor",
-      "AIGovernanceModelOps",
-      "AIMandADealRoom",
-      "AIRefugeeAsylumCaseManager"
-    ],
-    "consolidatedFromApps": [
-      "legal-compliance-risk/automatedatagovernance",
-      "legal-compliance-risk/due-diligence-assistant",
-      "legal-compliance-risk/immigration-case-manager",
-      "legal-compliance-risk/tenant-rights-advisor"
-    ],
-    "evidence": [
-      {
-        "kind": "page",
-        "sourceProject": "AIRefugeeAsylumCaseManager",
-        "path": "frontend/src/pages/WebhooksPage.js",
-        "route": "/WebhooksPage",
-        "originApp": "legal-compliance-risk/immigration-case-manager"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIBailBondRiskAssessor",
-        "path": "client/src/pages/WebhooksPage.js",
-        "route": "/WebhooksPage",
-        "originApp": "legal-compliance-risk/tenant-rights-advisor"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIGovernanceModelOps",
-        "path": "frontend/src/pages/WebhooksPage.js",
-        "route": "/WebhooksPage",
-        "originApp": "legal-compliance-risk/automatedatagovernance"
-      },
-      {
-        "kind": "page",
-        "sourceProject": "AIMandADealRoom",
-        "path": "frontend/src/pages/WebhooksPage.js",
-        "route": "/WebhooksPage",
-        "originApp": "legal-compliance-risk/due-diligence-assistant"
       }
     ]
   },
@@ -7567,6 +7582,41 @@
         "path": "frontend/src/App.js:21",
         "route": "/wills",
         "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      }
+    ]
+  },
+  {
+    "name": "Workspaces",
+    "canonicalKey": "workspace",
+    "aliases": [],
+    "kinds": [
+      "api"
+    ],
+    "routes": [
+      "/workspaces"
+    ],
+    "sourceProjects": [
+      "AIDivorceFamilyLawNavigator",
+      "AIDueDiligenceAssistant"
+    ],
+    "consolidatedFromApps": [
+      "legal-compliance-risk/due-diligence-assistant",
+      "legal-compliance-risk/tenant-rights-advisor"
+    ],
+    "evidence": [
+      {
+        "kind": "api",
+        "sourceProject": "AIDivorceFamilyLawNavigator",
+        "path": "server/routes/navigationWorkflow.js:32",
+        "route": "/workspaces",
+        "originApp": "legal-compliance-risk/tenant-rights-advisor"
+      },
+      {
+        "kind": "api",
+        "sourceProject": "AIDueDiligenceAssistant",
+        "path": "backend/routes/governedDiligence.js:12",
+        "route": "/workspaces",
+        "originApp": "legal-compliance-risk/due-diligence-assistant"
       }
     ]
   }
