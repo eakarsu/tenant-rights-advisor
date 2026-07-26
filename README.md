@@ -3,7 +3,7 @@
 Industry: **Legal, Compliance & Risk**  
 Specialization: **Tenant Rights Advisor**
 
-This standalone application consolidates source-backed capabilities into 232 optimized features, including 47 visible data-backed or AI-enabled views. Its public demo SQLite database contains 440 sanitized source rows across 29 imported tables and 120 operational workflow records.
+This standalone application consolidates source-backed capabilities into 232 optimized features, including all 232 source-backed feature views. Its public demo SQLite database contains 440 sanitized source rows across 29 imported tables and 120 operational workflow records.
 
 ## Run locally
 
